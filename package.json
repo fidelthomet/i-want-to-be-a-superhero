@@ -1,0 +1,19 @@
+{
+  "name": "i-want-to-be-a-superhero-preprocessing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/vision": "^2.1.2",
+    "@tensorflow-models/body-pix": "^2.0.5",
+    "@tensorflow-models/mobilenet": "^2.0.4",
+    "@tensorflow/tfjs-node": "^2.4.0",
+    "node-p5": "^1.0.3"
+  }
+}
