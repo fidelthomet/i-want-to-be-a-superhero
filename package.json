@@ -14,7 +14,8 @@
     "@tensorflow-models/body-pix": "^2.0.5",
     "@tensorflow-models/mobilenet": "^2.0.4",
     "@tensorflow/tfjs-node": "^2.4.0",
-    "node-p5": "^1.0.3"
+    "node-p5": "^1.0.3",
+    "rimraf": "^3.0.2"
   },
   "devDependencies": {
     "eslint": "^7.10.0",
