@@ -15,8 +15,8 @@ let image
 let width
 let height
 
-const resH = 90
-const resL = 50
+const resH = 20
+const resL = 10
 
 const blendModes = ['ADD', 'DARKEST', 'LIGHTEST', 'DIFFERENCE', 'EXCLUSION', 'MULTIPLY', 'SCREEN', 'OVERLAY', 'HARD_LIGHT', 'SOFT_LIGHT', 'DODGE', 'BURN']
 
@@ -69,7 +69,7 @@ function tint (p) {
 
     Promise.all(saves).then(d => {
       console.log(`saved ${d.length + 1} images`)
-      startClassification(d)
+      // startClassification(d)
     })
 
     // console.log(segmentation)
@@ -89,7 +89,14 @@ function tint (p) {
 
 async function startClassification (imgs) {
   const client = new vision.ImageAnnotatorClient()
-  const visionResults = imgs.map(i => client.labelDetection(i))
+  const visionResults = imgs.map((i, ii) => {
+    return new Promise((resolve, reject) => {
+      setTimeout(() => {
+        console.log(ii)
+        client.labelDetection(i).then(r => resolve(r))
+      }, 1000 * ii)
+    })
+  })
   const visionP = new Promise((resolve, reject) => {
     Promise.all(visionResults).then(data => {
       resolve(data.map(d => {
@@ -115,7 +122,7 @@ async function startClassification (imgs) {
       }
     })
 
-    fs.writeFileSync(`output/${path}.json`, JSON.stringify(result, null, 2))
+    fs.writeFileSync(`output/${path}.json`, JSON.stringify(result))
   })
 }
 
