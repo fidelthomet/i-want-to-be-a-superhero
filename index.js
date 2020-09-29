@@ -1,8 +1,5 @@
 import bodyPix from '@tensorflow-models/body-pix'
-import mobilenet from '@tensorflow-models/mobilenet'
 import tfjs from '@tensorflow/tfjs-node'
-
-import vision from '@google-cloud/vision'
 
 import fs, { mkdirSync } from 'fs'
 import rimraf from 'rimraf'
@@ -15,22 +12,30 @@ let image
 let width
 let height
 
+let exportSize = 128
+
+const white = true
+const overwriteExportSize = false
+
 const resH = 20
 const resL = 10
 
-const blendModes = ['ADD', 'DARKEST', 'LIGHTEST', 'DIFFERENCE', 'EXCLUSION', 'MULTIPLY', 'SCREEN', 'OVERLAY', 'HARD_LIGHT', 'SOFT_LIGHT', 'DODGE', 'BURN']
+const blendModes = ['MULTIPLY', 'SCREEN', 'OVERLAY', 'DIFFERENCE', 'DODGE']
 
 async function loadImage (path) {
   const file = await fs.promises.readFile(path)
   const image = await tfjs.node.decodeImage(file, 3)
   width = image.shape[0]
   height = image.shape[1]
+  if (overwriteExportSize) {
+    exportSize = width
+  }
   return image
 }
 
 function tint (p) {
   p.setup = () => {
-    const canvas = p.createCanvas(width, height)
+    const canvas = p.createCanvas(exportSize, exportSize)
     const img = p.createImage(width, height)
     img.loadPixels()
     const imgPixels = image.dataSync()
@@ -46,7 +51,7 @@ function tint (p) {
       for (let h = 0; h < 360; h += resH) {
         for (let l = resL; l < 100; l += resL) {
           p.blendMode(p.REPLACE)
-          p.background(img)
+          p.image(img, 0, 0, exportSize, exportSize)
           p.blendMode(p[bm])
 
           const color = p.color(h, 100, l)
@@ -60,7 +65,21 @@ function tint (p) {
             mask.pixels[i * 4 + 3] = pix > 0 ? 255 : 0
           })
           mask.updatePixels()
-          p.image(mask, 0, 0)
+          p.image(mask, 0, 0, exportSize, exportSize)
+
+          if (white) {
+            const maskWhite = p.createImage(width, height)
+            maskWhite.loadPixels()
+            segmentation.data.forEach((pix, i) => {
+              maskWhite.pixels[i * 4 + 0] = 255
+              maskWhite.pixels[i * 4 + 1] = 255
+              maskWhite.pixels[i * 4 + 2] = 255
+              maskWhite.pixels[i * 4 + 3] = pix > 0 ? 0 : 255
+            })
+            maskWhite.updatePixels()
+            p.blendMode(p.BLEND)
+            p.image(maskWhite, 0, 0, exportSize, exportSize)
+          }
 
           saves.push(p.saveCanvas(canvas, `./output/${path}/${bm}-h${h}-l${l}`, 'jpg'))
         }
@@ -68,7 +87,7 @@ function tint (p) {
     })
 
     Promise.all(saves).then(d => {
-      console.log(`saved ${d.length + 1} images`)
+      console.log(`saved ${d.length} images`)
       // startClassification(d)
     })
 
@@ -85,53 +104,6 @@ function tint (p) {
     // p.text('hello world!', 50, 100)
     // console.log('1.5')
   }
-}
-
-async function startClassification (imgs) {
-  const client = new vision.ImageAnnotatorClient()
-  const visionResults = imgs.map((i, ii) => {
-    return new Promise((resolve, reject) => {
-      setTimeout(() => {
-        console.log(ii)
-        client.labelDetection(i).then(r => resolve(r))
-      }, 1000 * ii)
-    })
-  })
-  const visionP = new Promise((resolve, reject) => {
-    Promise.all(visionResults).then(data => {
-      resolve(data.map(d => {
-        return d[0].labelAnnotations.map(l => [l.description, l.score])
-      }))
-    })
-  })
-
-  const model = await mobilenet.load()
-  const mobilenetResults = imgs.map(i => classifyMobileNet(i, model))
-  const mobilenetP = new Promise((resolve, reject) => {
-    Promise.all(mobilenetResults).then(data => {
-      resolve(data)
-    })
-  })
-
-  Promise.all([visionP, mobilenetP]).then(data => {
-    const result = imgs.map((img, i) => {
-      return {
-        img,
-        vision: data[0][i],
-        mobilenet: data[1][i]
-      }
-    })
-
-    fs.writeFileSync(`output/${path}.json`, JSON.stringify(result))
-  })
-}
-
-const classifyMobileNet = async (imagePath, model) => {
-  const image = fs.readFileSync(imagePath)
-  const decodedImage = tfjs.node.decodeImage(image, 3)
-
-  const predictions = await model.classify(decodedImage)
-  return predictions.map(p => [p.className.split(',')[0], p.probability])
 }
 
 async function main () {

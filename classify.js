@@ -9,17 +9,17 @@ const path = process.argv[2]
 const resH = 20
 const resL = 10
 
-const blendModes = ['ADD', 'DARKEST', 'LIGHTEST', 'DIFFERENCE', 'EXCLUSION', 'MULTIPLY', 'SCREEN', 'OVERLAY', 'HARD_LIGHT', 'SOFT_LIGHT', 'DODGE', 'BURN']
-const blendMode = blendModes[+process.argv[3]]
+const blendModes = ['MULTIPLY', 'SCREEN', 'OVERLAY', 'DIFFERENCE', 'DODGE']
+// const blendMode = blendModes[+process.argv[3]]
 
-async function startClassification (imgs) {
+async function startClassification (imgs, bm) {
   const client = new vision.ImageAnnotatorClient()
   const visionResults = imgs.map((i, ii) => {
     return new Promise((resolve, reject) => {
       setTimeout(() => {
-        console.log(ii)
+        if (ii % 50 === 0) console.log(ii)
         client.labelDetection(i).then(r => resolve(r))
-      }, 1000 * ii)
+      }, 500 * ii)
     })
   })
   const visionP = new Promise((resolve, reject) => {
@@ -47,8 +47,9 @@ async function startClassification (imgs) {
       }
     })
     console.log('writing')
-    fs.writeFileSync(`output/${path}-${blendMode}.json`, JSON.stringify(result, null, 2))
+    fs.writeFileSync(`output/${path}-${blendModes[bm]}.json`, JSON.stringify(result, null, 2))
     console.log('wrote')
+    prepare(bm + 1)
   })
 }
 
@@ -61,17 +62,24 @@ const classifyMobileNet = async (imagePath, model) => {
 }
 
 async function main () {
+  prepare(0)
+}
+
+async function prepare (bm) {
+  if (bm >= blendModes.length) {
+    console.log('done')
+    return
+  }
   const imgs = []
-  // blendModes.forEach(bm => {
   for (let h = 0; h < 360; h += resH) {
     for (let l = resL; l < 100; l += resL) {
-      imgs.push(`./output/${path}/${blendMode}-h${h}-l${l}.jpg`)
+      imgs.push(`./output/${path}/${blendModes[bm]}-h${h}-l${l}.jpg`)
       // saves.push(p.saveCanvas(canvas, `./output/${path}/${bm}-h${h}-l${l}`, 'jpg'))
     }
   }
   // })
   console.log(imgs.length)
-  startClassification(imgs)
+  startClassification(imgs, bm)
 }
 
 main()
