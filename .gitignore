@@ -1,6 +1,6 @@
-/node_modules
+/preprocessing/node_modules
 
-/input
-/output
+/preprocessing/input
+/preprocessing/output
 
 .DS_Store
