@@ -1,0 +1,6740 @@
+[
+  {
+    "img": "./output/1/MULTIPLY-h0-l10.jpg",
+    "vision": [
+      [
+        "Silhouette",
+        0.9159102439880371
+      ],
+      [
+        "Illustration",
+        0.5451834201812744
+      ],
+      [
+        "Shadow",
+        0.5434409379959106
+      ]
+    ],
+    "mobilenet": [
+      [
+        "bloodhound",
+        0.16809239983558655
+      ],
+      [
+        "horizontal bar",
+        0.12409069389104843
+      ],
+      [
+        "redbone",
+        0.09322885423898697
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h0-l20.jpg",
+    "vision": [
+      [
+        "Red",
+        0.9440035820007324
+      ],
+      [
+        "Illustration",
+        0.6806615591049194
+      ],
+      [
+        "Silhouette",
+        0.5902045965194702
+      ],
+      [
+        "Fictional character",
+        0.5859824419021606
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.20035721361637115
+      ],
+      [
+        "bloodhound",
+        0.1869845986366272
+      ],
+      [
+        "vizsla",
+        0.06674756854772568
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h0-l30.jpg",
+    "vision": [
+      [
+        "Red",
+        0.9710542559623718
+      ],
+      [
+        "Illustration",
+        0.7438470125198364
+      ],
+      [
+        "Fictional character",
+        0.5859824419021606
+      ],
+      [
+        "Animation",
+        0.5582482814788818
+      ],
+      [
+        "Carmine",
+        0.5276064276695251
+      ],
+      [
+        "Art",
+        0.502187192440033
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.33722159266471863
+      ],
+      [
+        "bloodhound",
+        0.08422049880027771
+      ],
+      [
+        "parallel bars",
+        0.06986027956008911
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h0-l40.jpg",
+    "vision": [
+      [
+        "Red",
+        0.9736853241920471
+      ],
+      [
+        "Illustration",
+        0.6806615591049194
+      ],
+      [
+        "Fictional character",
+        0.6189797520637512
+      ],
+      [
+        "Carmine",
+        0.5840747952461243
+      ],
+      [
+        "Silhouette",
+        0.5607849955558777
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.3478182852268219
+      ],
+      [
+        "parallel bars",
+        0.08800939470529556
+      ],
+      [
+        "balance beam",
+        0.07611967623233795
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h0-l50.jpg",
+    "vision": [
+      [
+        "Red",
+        0.9731013774871826
+      ],
+      [
+        "Fictional character",
+        0.6844398975372314
+      ],
+      [
+        "Illustration",
+        0.6402102112770081
+      ],
+      [
+        "Carmine",
+        0.5840747952461243
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.3277939558029175
+      ],
+      [
+        "parallel bars",
+        0.08571023494005203
+      ],
+      [
+        "balance beam",
+        0.08121854066848755
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h0-l60.jpg",
+    "vision": [
+      [
+        "Red",
+        0.9660854339599609
+      ],
+      [
+        "Illustration",
+        0.7593508362770081
+      ],
+      [
+        "Animation",
+        0.736576497554779
+      ],
+      [
+        "Fictional character",
+        0.7231426239013672
+      ],
+      [
+        "Carmine",
+        0.5840747952461243
+      ],
+      [
+        "Drawing",
+        0.5111506581306458
+      ],
+      [
+        "Art",
+        0.502187192440033
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.2815708518028259
+      ],
+      [
+        "parallel bars",
+        0.10516969859600067
+      ],
+      [
+        "balance beam",
+        0.07415563613176346
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h0-l70.jpg",
+    "vision": [
+      [
+        "Red",
+        0.901925265789032
+      ],
+      [
+        "Animation",
+        0.7837049961090088
+      ],
+      [
+        "Human",
+        0.746764600276947
+      ],
+      [
+        "Illustration",
+        0.6806615591049194
+      ],
+      [
+        "Fictional character",
+        0.5859824419021606
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.1561630368232727
+      ],
+      [
+        "parallel bars",
+        0.08525379002094269
+      ],
+      [
+        "balance beam",
+        0.08191977441310883
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h0-l80.jpg",
+    "vision": [
+      [
+        "Animation",
+        0.7483060956001282
+      ],
+      [
+        "Fun",
+        0.7039424180984497
+      ],
+      [
+        "Jumping",
+        0.6276477575302124
+      ],
+      [
+        "Illustration",
+        0.5451834201812744
+      ],
+      [
+        "Happy",
+        0.5412643551826477
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ]
+    ],
+    "mobilenet": [
+      [
+        "balance beam",
+        0.10851211100816727
+      ],
+      [
+        "punching bag",
+        0.0737638846039772
+      ],
+      [
+        "piggy bank",
+        0.07252176851034164
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h0-l90.jpg",
+    "vision": [
+      [
+        "Jumping",
+        0.789566159248352
+      ],
+      [
+        "Joint",
+        0.739563524723053
+      ],
+      [
+        "Animation",
+        0.6399007439613342
+      ],
+      [
+        "Recreation",
+        0.5942989587783813
+      ],
+      [
+        "Happy",
+        0.5412643551826477
+      ]
+    ],
+    "mobilenet": [
+      [
+        "piggy bank",
+        0.1479295790195465
+      ],
+      [
+        "balance beam",
+        0.09112446755170822
+      ],
+      [
+        "airship",
+        0.043497707694768906
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h20-l10.jpg",
+    "vision": [
+      [
+        "Silhouette",
+        0.8464153409004211
+      ],
+      [
+        "Illustration",
+        0.5765818953514099
+      ]
+    ],
+    "mobilenet": [
+      [
+        "vizsla",
+        0.2791168987751007
+      ],
+      [
+        "redbone",
+        0.17803902924060822
+      ],
+      [
+        "bloodhound",
+        0.07854150235652924
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h20-l20.jpg",
+    "vision": [
+      [
+        "Silhouette",
+        0.6549367308616638
+      ],
+      [
+        "Animation",
+        0.5582482814788818
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "vizsla",
+        0.3698784410953522
+      ],
+      [
+        "redbone",
+        0.13527649641036987
+      ],
+      [
+        "bloodhound",
+        0.10176751017570496
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h20-l30.jpg",
+    "vision": [
+      [
+        "Animation",
+        0.7231491804122925
+      ],
+      [
+        "Illustration",
+        0.5765818953514099
+      ]
+    ],
+    "mobilenet": [
+      [
+        "vizsla",
+        0.3529699146747589
+      ],
+      [
+        "redbone",
+        0.11317815631628036
+      ],
+      [
+        "bloodhound",
+        0.08108198642730713
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h20-l40.jpg",
+    "vision": [
+      [
+        "Animation",
+        0.7837049961090088
+      ],
+      [
+        "Human",
+        0.746764600276947
+      ],
+      [
+        "Illustration",
+        0.6402102112770081
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ],
+      [
+        "Art",
+        0.502187192440033
+      ]
+    ],
+    "mobilenet": [
+      [
+        "vizsla",
+        0.21282795071601868
+      ],
+      [
+        "horizontal bar",
+        0.10950617492198944
+      ],
+      [
+        "redbone",
+        0.060498856008052826
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h20-l50.jpg",
+    "vision": [
+      [
+        "Orange",
+        0.8360481858253479
+      ],
+      [
+        "Human",
+        0.7591204047203064
+      ],
+      [
+        "Animation",
+        0.6050723195075989
+      ],
+      [
+        "Illustration",
+        0.5451834201812744
+      ],
+      [
+        "3d modeling",
+        0.5076000690460205
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.12572118639945984
+      ],
+      [
+        "vizsla",
+        0.11434660106897354
+      ],
+      [
+        "balance beam",
+        0.03226559981703758
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h20-l60.jpg",
+    "vision": [
+      [
+        "Animation",
+        0.7837049961090088
+      ],
+      [
+        "Human",
+        0.7591204047203064
+      ],
+      [
+        "Illustration",
+        0.6017356514930725
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.06947936862707138
+      ],
+      [
+        "balance beam",
+        0.05878019332885742
+      ],
+      [
+        "vizsla",
+        0.05134221911430359
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h20-l70.jpg",
+    "vision": [
+      [
+        "Animation",
+        0.7967938184738159
+      ],
+      [
+        "Illustration",
+        0.6806615591049194
+      ],
+      [
+        "Jumping",
+        0.5669294595718384
+      ]
+    ],
+    "mobilenet": [
+      [
+        "balance beam",
+        0.0819031298160553
+      ],
+      [
+        "punching bag",
+        0.05734183266758919
+      ],
+      [
+        "airship",
+        0.046872347593307495
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h20-l80.jpg",
+    "vision": [
+      [
+        "Jumping",
+        0.7656810879707336
+      ],
+      [
+        "Animation",
+        0.707575261592865
+      ],
+      [
+        "Fun",
+        0.7039424180984497
+      ],
+      [
+        "Recreation",
+        0.5942989587783813
+      ],
+      [
+        "Happy",
+        0.5412643551826477
+      ]
+    ],
+    "mobilenet": [
+      [
+        "piggy bank",
+        0.08516235649585724
+      ],
+      [
+        "airship",
+        0.06389808654785156
+      ],
+      [
+        "balance beam",
+        0.05801432207226753
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h20-l90.jpg",
+    "vision": [
+      [
+        "Jumping",
+        0.8056546449661255
+      ],
+      [
+        "Fun",
+        0.7039424180984497
+      ],
+      [
+        "Animation",
+        0.6671455502510071
+      ],
+      [
+        "Recreation",
+        0.5942989587783813
+      ],
+      [
+        "Happy",
+        0.5412643551826477
+      ]
+    ],
+    "mobilenet": [
+      [
+        "airship",
+        0.08861757814884186
+      ],
+      [
+        "piggy bank",
+        0.08197756111621857
+      ],
+      [
+        "balance beam",
+        0.050724394619464874
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h40-l10.jpg",
+    "vision": [
+      [
+        "Silhouette",
+        0.8396573662757874
+      ],
+      [
+        "Shadow",
+        0.6188888549804688
+      ]
+    ],
+    "mobilenet": [
+      [
+        "vizsla",
+        0.13463059067726135
+      ],
+      [
+        "Rhodesian ridgeback",
+        0.12755736708641052
+      ],
+      [
+        "proboscis monkey",
+        0.07245507836341858
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h40-l20.jpg",
+    "vision": [
+      [
+        "Animation",
+        0.6050723195075989
+      ],
+      [
+        "Silhouette",
+        0.5331606864929199
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.15723364055156708
+      ],
+      [
+        "Rhodesian ridgeback",
+        0.11107967793941498
+      ],
+      [
+        "vizsla",
+        0.09806235134601593
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h40-l30.jpg",
+    "vision": [
+      [
+        "Animation",
+        0.7586654424667358
+      ],
+      [
+        "3d modeling",
+        0.5232404470443726
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.24980099499225616
+      ],
+      [
+        "kite",
+        0.06699032336473465
+      ],
+      [
+        "Rhodesian ridgeback",
+        0.035462576895952225
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h40-l40.jpg",
+    "vision": [
+      [
+        "Animation",
+        0.8529506921768188
+      ],
+      [
+        "3d modeling",
+        0.5710425972938538
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.2372908592224121
+      ],
+      [
+        "kite",
+        0.057453859597444534
+      ],
+      [
+        "balance beam",
+        0.0512692965567112
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h40-l50.jpg",
+    "vision": [
+      [
+        "Yellow",
+        0.8936073184013367
+      ],
+      [
+        "Animation",
+        0.7967938184738159
+      ],
+      [
+        "Fun",
+        0.7039424180984497
+      ],
+      [
+        "Jumping",
+        0.5944257378578186
+      ],
+      [
+        "Happy",
+        0.5845353007316589
+      ],
+      [
+        "Illustration",
+        0.5765818953514099
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.10966349393129349
+      ],
+      [
+        "kite",
+        0.06369733065366745
+      ],
+      [
+        "balance beam",
+        0.045732077211141586
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h40-l60.jpg",
+    "vision": [
+      [
+        "Animation",
+        0.8294050693511963
+      ],
+      [
+        "Illustration",
+        0.6554555892944336
+      ],
+      [
+        "Jumping",
+        0.5669294595718384
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ]
+    ],
+    "mobilenet": [
+      [
+        "kite",
+        0.07986052334308624
+      ],
+      [
+        "horizontal bar",
+        0.06321696937084198
+      ],
+      [
+        "parachute",
+        0.06193963810801506
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h40-l70.jpg",
+    "vision": [
+      [
+        "Animation",
+        0.7678998708724976
+      ],
+      [
+        "Illustration",
+        0.6017356514930725
+      ],
+      [
+        "Recreation",
+        0.5942989587783813
+      ],
+      [
+        "Jumping",
+        0.5062492489814758
+      ]
+    ],
+    "mobilenet": [
+      [
+        "kite",
+        0.11120716482400894
+      ],
+      [
+        "parachute",
+        0.09977971017360687
+      ],
+      [
+        "airship",
+        0.08638155460357666
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h40-l80.jpg",
+    "vision": [
+      [
+        "Animation",
+        0.7483060956001282
+      ],
+      [
+        "Jumping",
+        0.6843580603599548
+      ],
+      [
+        "Recreation",
+        0.5942989587783813
+      ]
+    ],
+    "mobilenet": [
+      [
+        "airship",
+        0.13362321257591248
+      ],
+      [
+        "parachute",
+        0.10120031982660294
+      ],
+      [
+        "kite",
+        0.096448615193367
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h40-l90.jpg",
+    "vision": [
+      [
+        "Jumping",
+        0.8312505483627319
+      ],
+      [
+        "Fun",
+        0.7039424180984497
+      ],
+      [
+        "Animation",
+        0.6671455502510071
+      ],
+      [
+        "Recreation",
+        0.6427465081214905
+      ],
+      [
+        "Happy",
+        0.5412643551826477
+      ]
+    ],
+    "mobilenet": [
+      [
+        "airship",
+        0.19028402864933014
+      ],
+      [
+        "parachute",
+        0.057697247713804245
+      ],
+      [
+        "balance beam",
+        0.05351314693689346
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h60-l10.jpg",
+    "vision": [
+      [
+        "Silhouette",
+        0.7337809205055237
+      ],
+      [
+        "Shadow",
+        0.5616394281387329
+      ],
+      [
+        "3d modeling",
+        0.5449368953704834
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "pedestal",
+        0.20164258778095245
+      ],
+      [
+        "Rhodesian ridgeback",
+        0.08608771860599518
+      ],
+      [
+        "African chameleon",
+        0.08461474627256393
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h60-l20.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9068462252616882
+      ],
+      [
+        "3d modeling",
+        0.7442890405654907
+      ],
+      [
+        "Animation",
+        0.707575261592865
+      ],
+      [
+        "Fictional character",
+        0.5859824419021606
+      ]
+    ],
+    "mobilenet": [
+      [
+        "African chameleon",
+        0.1359889656305313
+      ],
+      [
+        "kite",
+        0.08027183264493942
+      ],
+      [
+        "artichoke",
+        0.07371392846107483
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h60-l30.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9354104399681091
+      ],
+      [
+        "Yellow",
+        0.8820182085037231
+      ],
+      [
+        "3d modeling",
+        0.7543038725852966
+      ],
+      [
+        "Animation",
+        0.7231491804122925
+      ],
+      [
+        "Illustration",
+        0.6402102112770081
+      ],
+      [
+        "Shoe",
+        0.5394883155822754
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ],
+      [
+        "Art",
+        0.502187192440033
+      ]
+    ],
+    "mobilenet": [
+      [
+        "African chameleon",
+        0.12481927126646042
+      ],
+      [
+        "banana",
+        0.07467959821224213
+      ],
+      [
+        "artichoke",
+        0.06463504582643509
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h60-l40.jpg",
+    "vision": [
+      [
+        "Yellow",
+        0.9338817596435547
+      ],
+      [
+        "Green",
+        0.928557813167572
+      ],
+      [
+        "Animation",
+        0.7967938184738159
+      ],
+      [
+        "Personal protective equipment",
+        0.759529173374176
+      ],
+      [
+        "Illustration",
+        0.7008524537086487
+      ],
+      [
+        "Outerwear",
+        0.6577929258346558
+      ],
+      [
+        "3d modeling",
+        0.5710425972938538
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ],
+      [
+        "Sleeve",
+        0.5001645088195801
+      ]
+    ],
+    "mobilenet": [
+      [
+        "banana",
+        0.08854638040065765
+      ],
+      [
+        "African chameleon",
+        0.06592094898223877
+      ],
+      [
+        "kite",
+        0.05962212756276131
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h60-l50.jpg",
+    "vision": [
+      [
+        "Yellow",
+        0.9338817596435547
+      ],
+      [
+        "Animation",
+        0.7231491804122925
+      ],
+      [
+        "Illustration",
+        0.5451834201812744
+      ]
+    ],
+    "mobilenet": [
+      [
+        "banana",
+        0.09403539448976517
+      ],
+      [
+        "tennis ball",
+        0.05608101934194565
+      ],
+      [
+        "African chameleon",
+        0.052732326090335846
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h60-l60.jpg",
+    "vision": [
+      [
+        "Yellow",
+        0.9370745420455933
+      ],
+      [
+        "Personal protective equipment",
+        0.8198691010475159
+      ],
+      [
+        "Animation",
+        0.707575261592865
+      ],
+      [
+        "Illustration",
+        0.5451834201812744
+      ]
+    ],
+    "mobilenet": [
+      [
+        "kite",
+        0.06392363458871841
+      ],
+      [
+        "banana",
+        0.05407021567225456
+      ],
+      [
+        "parachute",
+        0.0514400415122509
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h60-l70.jpg",
+    "vision": [
+      [
+        "Yellow",
+        0.9086499214172363
+      ],
+      [
+        "Animation",
+        0.7967938184738159
+      ],
+      [
+        "Fun",
+        0.7039424180984497
+      ],
+      [
+        "Jumping",
+        0.6876104474067688
+      ],
+      [
+        "Recreation",
+        0.5942989587783813
+      ],
+      [
+        "Personal protective equipment",
+        0.5925366282463074
+      ],
+      [
+        "Running",
+        0.5183918476104736
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ],
+      [
+        "T-shirt",
+        0.5017428994178772
+      ]
+    ],
+    "mobilenet": [
+      [
+        "kite",
+        0.09854352474212646
+      ],
+      [
+        "parachute",
+        0.08849582076072693
+      ],
+      [
+        "airship",
+        0.07279016077518463
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h60-l80.jpg",
+    "vision": [
+      [
+        "Yellow",
+        0.8363301753997803
+      ],
+      [
+        "Jumping",
+        0.7591935992240906
+      ],
+      [
+        "Animation",
+        0.7483060956001282
+      ],
+      [
+        "Fun",
+        0.7039424180984497
+      ],
+      [
+        "Recreation",
+        0.6427465081214905
+      ],
+      [
+        "Running",
+        0.6174458861351013
+      ],
+      [
+        "Personal protective equipment",
+        0.5925366282463074
+      ],
+      [
+        "Happy",
+        0.5845353007316589
+      ]
+    ],
+    "mobilenet": [
+      [
+        "airship",
+        0.12293985486030579
+      ],
+      [
+        "kite",
+        0.11313643306493759
+      ],
+      [
+        "parachute",
+        0.10702183842658997
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h60-l90.jpg",
+    "vision": [
+      [
+        "Jumping",
+        0.7406899929046631
+      ],
+      [
+        "Joint",
+        0.739563524723053
+      ],
+      [
+        "Fun",
+        0.7039424180984497
+      ],
+      [
+        "Animation",
+        0.6671455502510071
+      ],
+      [
+        "Recreation",
+        0.6427465081214905
+      ],
+      [
+        "Running",
+        0.5463984608650208
+      ],
+      [
+        "Happy",
+        0.5412643551826477
+      ]
+    ],
+    "mobilenet": [
+      [
+        "airship",
+        0.21552586555480957
+      ],
+      [
+        "parachute",
+        0.08088770508766174
+      ],
+      [
+        "kite",
+        0.06377239525318146
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h80-l10.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9068462252616882
+      ],
+      [
+        "Silhouette",
+        0.8238789439201355
+      ],
+      [
+        "Shadow",
+        0.6188888549804688
+      ],
+      [
+        "Animation",
+        0.5582482814788818
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "African chameleon",
+        0.38960519433021545
+      ],
+      [
+        "pedestal",
+        0.0731089636683464
+      ],
+      [
+        "Rhodesian ridgeback",
+        0.060149408876895905
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h80-l20.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9669725894927979
+      ],
+      [
+        "3d modeling",
+        0.78328537940979
+      ],
+      [
+        "Animation",
+        0.6892195343971252
+      ],
+      [
+        "Fictional character",
+        0.6590808033943176
+      ]
+    ],
+    "mobilenet": [
+      [
+        "African chameleon",
+        0.22969093918800354
+      ],
+      [
+        "artichoke",
+        0.16616857051849365
+      ],
+      [
+        "Granny Smith",
+        0.028273046016693115
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h80-l30.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9792848229408264
+      ],
+      [
+        "3d modeling",
+        0.8410308957099915
+      ],
+      [
+        "Fictional character",
+        0.6729325652122498
+      ],
+      [
+        "Animation",
+        0.5582482814788818
+      ],
+      [
+        "Shoe",
+        0.5394883155822754
+      ]
+    ],
+    "mobilenet": [
+      [
+        "African chameleon",
+        0.15978679060935974
+      ],
+      [
+        "artichoke",
+        0.14490830898284912
+      ],
+      [
+        "banana",
+        0.056051429361104965
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h80-l40.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9807137250900269
+      ],
+      [
+        "Personal protective equipment",
+        0.7246650457382202
+      ],
+      [
+        "3d modeling",
+        0.7223573923110962
+      ],
+      [
+        "Fictional character",
+        0.5859824419021606
+      ],
+      [
+        "Shoe",
+        0.5555154085159302
+      ]
+    ],
+    "mobilenet": [
+      [
+        "African chameleon",
+        0.12413191050291061
+      ],
+      [
+        "broccoli",
+        0.09696141630411148
+      ],
+      [
+        "artichoke",
+        0.08379343897104263
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h80-l50.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9767681956291199
+      ],
+      [
+        "Personal protective equipment",
+        0.759529173374176
+      ],
+      [
+        "3d modeling",
+        0.5999261736869812
+      ],
+      [
+        "Animation",
+        0.5582482814788818
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ],
+      [
+        "Sleeve",
+        0.5001645088195801
+      ]
+    ],
+    "mobilenet": [
+      [
+        "broccoli",
+        0.1503172367811203
+      ],
+      [
+        "banana",
+        0.10008985549211502
+      ],
+      [
+        "African chameleon",
+        0.08565504103899002
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h80-l60.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9634645581245422
+      ],
+      [
+        "Personal protective equipment",
+        0.8513603806495667
+      ],
+      [
+        "Yellow",
+        0.8363301753997803
+      ],
+      [
+        "3d modeling",
+        0.6052733659744263
+      ],
+      [
+        "Fictional character",
+        0.5859824419021606
+      ],
+      [
+        "Shoe",
+        0.5205014944076538
+      ],
+      [
+        "Sleeve",
+        0.5001645088195801
+      ]
+    ],
+    "mobilenet": [
+      [
+        "broccoli",
+        0.11525397002696991
+      ],
+      [
+        "banana",
+        0.1127690002322197
+      ],
+      [
+        "artichoke",
+        0.06370187550783157
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h80-l70.jpg",
+    "vision": [
+      [
+        "Green",
+        0.928557813167572
+      ],
+      [
+        "Animation",
+        0.7483060956001282
+      ],
+      [
+        "Personal protective equipment",
+        0.7246650457382202
+      ],
+      [
+        "Outerwear",
+        0.6577929258346558
+      ],
+      [
+        "Illustration",
+        0.5451834201812744
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ],
+      [
+        "Player",
+        0.5269232988357544
+      ],
+      [
+        "Running",
+        0.524368941783905
+      ],
+      [
+        "T-shirt",
+        0.5017428994178772
+      ]
+    ],
+    "mobilenet": [
+      [
+        "artichoke",
+        0.06995003670454025
+      ],
+      [
+        "banana",
+        0.061241332441568375
+      ],
+      [
+        "broccoli",
+        0.05034191533923149
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h80-l80.jpg",
+    "vision": [
+      [
+        "Animation",
+        0.7761974930763245
+      ],
+      [
+        "Joint",
+        0.739563524723053
+      ],
+      [
+        "Jumping",
+        0.6186957955360413
+      ],
+      [
+        "Running",
+        0.6031604409217834
+      ],
+      [
+        "Recreation",
+        0.5942989587783813
+      ],
+      [
+        "Personal protective equipment",
+        0.5925366282463074
+      ]
+    ],
+    "mobilenet": [
+      [
+        "parachute",
+        0.11688834428787231
+      ],
+      [
+        "kite",
+        0.09286365658044815
+      ],
+      [
+        "airship",
+        0.05511016771197319
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h80-l90.jpg",
+    "vision": [
+      [
+        "Jumping",
+        0.7799864411354065
+      ],
+      [
+        "Joint",
+        0.739563524723053
+      ],
+      [
+        "Animation",
+        0.707575261592865
+      ],
+      [
+        "Recreation",
+        0.6427465081214905
+      ],
+      [
+        "Running",
+        0.5834721922874451
+      ],
+      [
+        "Happy",
+        0.5412643551826477
+      ],
+      [
+        "T-shirt",
+        0.5017428994178772
+      ]
+    ],
+    "mobilenet": [
+      [
+        "airship",
+        0.2027980238199234
+      ],
+      [
+        "parachute",
+        0.07579963654279709
+      ],
+      [
+        "kite",
+        0.05256965383887291
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h100-l10.jpg",
+    "vision": [
+      [
+        "Green",
+        0.945163369178772
+      ],
+      [
+        "Silhouette",
+        0.7935590147972107
+      ],
+      [
+        "Shadow",
+        0.6509701013565063
+      ],
+      [
+        "Animation",
+        0.5582482814788818
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ]
+    ],
+    "mobilenet": [
+      [
+        "African chameleon",
+        0.4307628571987152
+      ],
+      [
+        "artichoke",
+        0.06804587692022324
+      ],
+      [
+        "pot",
+        0.051110293716192245
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h100-l20.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9778146743774414
+      ],
+      [
+        "3d modeling",
+        0.7791418433189392
+      ],
+      [
+        "Fictional character",
+        0.7337670922279358
+      ],
+      [
+        "Animation",
+        0.7231491804122925
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ],
+      [
+        "Silhouette",
+        0.5029124021530151
+      ]
+    ],
+    "mobilenet": [
+      [
+        "African chameleon",
+        0.2692071199417114
+      ],
+      [
+        "artichoke",
+        0.09559470415115356
+      ],
+      [
+        "pot",
+        0.06892842054367065
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h100-l30.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9841644167900085
+      ],
+      [
+        "3d modeling",
+        0.875277042388916
+      ],
+      [
+        "Fictional character",
+        0.7666869759559631
+      ],
+      [
+        "Animation",
+        0.7231491804122925
+      ]
+    ],
+    "mobilenet": [
+      [
+        "African chameleon",
+        0.17559148371219635
+      ],
+      [
+        "pot",
+        0.09604499489068985
+      ],
+      [
+        "artichoke",
+        0.0622449554502964
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h100-l40.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9820531606674194
+      ],
+      [
+        "3d modeling",
+        0.7660505175590515
+      ],
+      [
+        "Animation",
+        0.7483060956001282
+      ],
+      [
+        "Fictional character",
+        0.7384588718414307
+      ]
+    ],
+    "mobilenet": [
+      [
+        "African chameleon",
+        0.15516822040081024
+      ],
+      [
+        "pot",
+        0.09221410751342773
+      ],
+      [
+        "broccoli",
+        0.05482671037316322
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h100-l50.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9822220802307129
+      ],
+      [
+        "Animation",
+        0.6892195343971252
+      ],
+      [
+        "Fictional character",
+        0.6417872905731201
+      ]
+    ],
+    "mobilenet": [
+      [
+        "African chameleon",
+        0.10495371371507645
+      ],
+      [
+        "pot",
+        0.07735555619001389
+      ],
+      [
+        "broccoli",
+        0.0683870017528534
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h100-l60.jpg",
+    "vision": [
+      [
+        "Green",
+        0.977481484413147
+      ],
+      [
+        "Animation",
+        0.7586654424667358
+      ],
+      [
+        "Fictional character",
+        0.7576115727424622
+      ],
+      [
+        "3d modeling",
+        0.5888209939002991
+      ]
+    ],
+    "mobilenet": [
+      [
+        "broccoli",
+        0.09225302934646606
+      ],
+      [
+        "African chameleon",
+        0.08730926364660263
+      ],
+      [
+        "artichoke",
+        0.08122773468494415
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h100-l70.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9679495096206665
+      ],
+      [
+        "Personal protective equipment",
+        0.785011887550354
+      ],
+      [
+        "Animation",
+        0.7483060956001282
+      ],
+      [
+        "Outerwear",
+        0.6577929258346558
+      ],
+      [
+        "Fictional character",
+        0.6189797520637512
+      ],
+      [
+        "3d modeling",
+        0.5306953191757202
+      ]
+    ],
+    "mobilenet": [
+      [
+        "artichoke",
+        0.12499402463436127
+      ],
+      [
+        "broccoli",
+        0.09434764832258224
+      ],
+      [
+        "African chameleon",
+        0.09315629303455353
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h100-l80.jpg",
+    "vision": [
+      [
+        "Green",
+        0.928557813167572
+      ],
+      [
+        "Animation",
+        0.7483060956001282
+      ],
+      [
+        "Outerwear",
+        0.717257559299469
+      ],
+      [
+        "Personal protective equipment",
+        0.6738846302032471
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ],
+      [
+        "Sleeve",
+        0.5238397121429443
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ],
+      [
+        "T-shirt",
+        0.5017428994178772
+      ]
+    ],
+    "mobilenet": [
+      [
+        "artichoke",
+        0.09242656826972961
+      ],
+      [
+        "kite",
+        0.057587429881095886
+      ],
+      [
+        "parachute",
+        0.04799000173807144
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h100-l90.jpg",
+    "vision": [
+      [
+        "Joint",
+        0.739563524723053
+      ],
+      [
+        "Jumping",
+        0.7332453727722168
+      ],
+      [
+        "Animation",
+        0.707575261592865
+      ],
+      [
+        "Fun",
+        0.7039424180984497
+      ],
+      [
+        "Recreation",
+        0.6427465081214905
+      ],
+      [
+        "Running",
+        0.5659292340278625
+      ]
+    ],
+    "mobilenet": [
+      [
+        "airship",
+        0.15655730664730072
+      ],
+      [
+        "parachute",
+        0.07872724533081055
+      ],
+      [
+        "kite",
+        0.05865216255187988
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h120-l10.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9354104399681091
+      ],
+      [
+        "Silhouette",
+        0.8238789439201355
+      ],
+      [
+        "Shadow",
+        0.5928702354431152
+      ],
+      [
+        "Animation",
+        0.5582482814788818
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "African chameleon",
+        0.19232110679149628
+      ],
+      [
+        "pot",
+        0.05034744739532471
+      ],
+      [
+        "triceratops",
+        0.03343480825424194
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h120-l20.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9704568982124329
+      ],
+      [
+        "Fictional character",
+        0.7384588718414307
+      ],
+      [
+        "Animation",
+        0.736576497554779
+      ],
+      [
+        "Silhouette",
+        0.6313906908035278
+      ],
+      [
+        "3d modeling",
+        0.5232404470443726
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "African chameleon",
+        0.2155284732580185
+      ],
+      [
+        "mask",
+        0.06806004047393799
+      ],
+      [
+        "triceratops",
+        0.0391540452837944
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h120-l30.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9781335592269897
+      ],
+      [
+        "Animation",
+        0.7967938184738159
+      ],
+      [
+        "Fictional character",
+        0.7792254090309143
+      ],
+      [
+        "3d modeling",
+        0.668578565120697
+      ],
+      [
+        "Superhero",
+        0.5117643475532532
+      ]
+    ],
+    "mobilenet": [
+      [
+        "African chameleon",
+        0.1525619477033615
+      ],
+      [
+        "mask",
+        0.10690420866012573
+      ],
+      [
+        "triceratops",
+        0.047637321054935455
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h120-l40.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9792848229408264
+      ],
+      [
+        "Fictional character",
+        0.7286838889122009
+      ],
+      [
+        "Animation",
+        0.6399007439613342
+      ]
+    ],
+    "mobilenet": [
+      [
+        "mask",
+        0.12141934782266617
+      ],
+      [
+        "African chameleon",
+        0.11381310969591141
+      ],
+      [
+        "triceratops",
+        0.04376654699444771
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h120-l50.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9804962277412415
+      ],
+      [
+        "Fictional character",
+        0.702785849571228
+      ],
+      [
+        "Animation",
+        0.6892195343971252
+      ]
+    ],
+    "mobilenet": [
+      [
+        "mask",
+        0.17433908581733704
+      ],
+      [
+        "African chameleon",
+        0.09407897293567657
+      ],
+      [
+        "triceratops",
+        0.03751812130212784
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h120-l60.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9795452952384949
+      ],
+      [
+        "Animation",
+        0.7678998708724976
+      ],
+      [
+        "Fictional character",
+        0.702785849571228
+      ],
+      [
+        "3d modeling",
+        0.6254191398620605
+      ]
+    ],
+    "mobilenet": [
+      [
+        "mask",
+        0.15567690134048462
+      ],
+      [
+        "African chameleon",
+        0.07076273113489151
+      ],
+      [
+        "triceratops",
+        0.029776187613606453
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h120-l70.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9718501567840576
+      ],
+      [
+        "Animation",
+        0.8078577518463135
+      ],
+      [
+        "Fictional character",
+        0.7384588718414307
+      ],
+      [
+        "3d modeling",
+        0.6524026393890381
+      ]
+    ],
+    "mobilenet": [
+      [
+        "African chameleon",
+        0.08567218482494354
+      ],
+      [
+        "mask",
+        0.07109890878200531
+      ],
+      [
+        "broccoli",
+        0.07066681236028671
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h120-l80.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9587113857269287
+      ],
+      [
+        "Animation",
+        0.7678998708724976
+      ],
+      [
+        "Outerwear",
+        0.6577929258346558
+      ],
+      [
+        "Personal protective equipment",
+        0.5925366282463074
+      ],
+      [
+        "Fictional character",
+        0.5859824419021606
+      ],
+      [
+        "3d modeling",
+        0.5830509662628174
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "artichoke",
+        0.10847470909357071
+      ],
+      [
+        "African chameleon",
+        0.08945324271917343
+      ],
+      [
+        "broccoli",
+        0.05647556483745575
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h120-l90.jpg",
+    "vision": [
+      [
+        "Animation",
+        0.736576497554779
+      ],
+      [
+        "Fun",
+        0.7039424180984497
+      ],
+      [
+        "Jumping",
+        0.6444361209869385
+      ],
+      [
+        "Recreation",
+        0.6427465081214905
+      ],
+      [
+        "Extreme sport",
+        0.545613169670105
+      ],
+      [
+        "Running",
+        0.5357353687286377
+      ]
+    ],
+    "mobilenet": [
+      [
+        "kite",
+        0.09679600596427917
+      ],
+      [
+        "airship",
+        0.09221930801868439
+      ],
+      [
+        "parachute",
+        0.08331558853387833
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h140-l10.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9407991766929626
+      ],
+      [
+        "Silhouette",
+        0.8480820655822754
+      ],
+      [
+        "Shadow",
+        0.6188888549804688
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ]
+    ],
+    "mobilenet": [
+      [
+        "African chameleon",
+        0.14606289565563202
+      ],
+      [
+        "triceratops",
+        0.054384924471378326
+      ],
+      [
+        "mask",
+        0.03188217431306839
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h140-l20.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9679495096206665
+      ],
+      [
+        "Silhouette",
+        0.7313069105148315
+      ],
+      [
+        "Fictional character",
+        0.7231426239013672
+      ],
+      [
+        "Animation",
+        0.707575261592865
+      ],
+      [
+        "Illustration",
+        0.5451834201812744
+      ],
+      [
+        "Sketch",
+        0.5107423663139343
+      ]
+    ],
+    "mobilenet": [
+      [
+        "African chameleon",
+        0.13711410760879517
+      ],
+      [
+        "mask",
+        0.09402161091566086
+      ],
+      [
+        "triceratops",
+        0.054252441972494125
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h140-l30.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9736279845237732
+      ],
+      [
+        "Animation",
+        0.7586654424667358
+      ],
+      [
+        "Fictional character",
+        0.7231426239013672
+      ],
+      [
+        "3d modeling",
+        0.5449368953704834
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "mask",
+        0.11992868781089783
+      ],
+      [
+        "African chameleon",
+        0.08909165114164352
+      ],
+      [
+        "triceratops",
+        0.06669364124536514
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h140-l40.jpg",
+    "vision": [
+      [
+        "Green",
+        0.975561797618866
+      ],
+      [
+        "Animation",
+        0.7761974930763245
+      ],
+      [
+        "Fictional character",
+        0.6942524313926697
+      ],
+      [
+        "Illustration",
+        0.5451834201812744
+      ]
+    ],
+    "mobilenet": [
+      [
+        "mask",
+        0.16044001281261444
+      ],
+      [
+        "African chameleon",
+        0.08166466653347015
+      ],
+      [
+        "triceratops",
+        0.059464145451784134
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h140-l50.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9825456142425537
+      ],
+      [
+        "Animation",
+        0.6892195343971252
+      ],
+      [
+        "Fictional character",
+        0.6417872905731201
+      ],
+      [
+        "3d modeling",
+        0.5076000690460205
+      ]
+    ],
+    "mobilenet": [
+      [
+        "mask",
+        0.1951460838317871
+      ],
+      [
+        "African chameleon",
+        0.06477881222963333
+      ],
+      [
+        "triceratops",
+        0.04918582737445831
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h140-l60.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9751171469688416
+      ],
+      [
+        "Animation",
+        0.7231491804122925
+      ],
+      [
+        "Fictional character",
+        0.6942524313926697
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "mask",
+        0.15198920667171478
+      ],
+      [
+        "African chameleon",
+        0.06854918599128723
+      ],
+      [
+        "triceratops",
+        0.038732655346393585
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h140-l70.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9688500165939331
+      ],
+      [
+        "Animation",
+        0.7586654424667358
+      ],
+      [
+        "Fictional character",
+        0.6729325652122498
+      ],
+      [
+        "Outerwear",
+        0.6577929258346558
+      ],
+      [
+        "Personal protective equipment",
+        0.5925366282463074
+      ],
+      [
+        "3d modeling",
+        0.5888209939002991
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "African chameleon",
+        0.08077558875083923
+      ],
+      [
+        "mask",
+        0.06862818449735641
+      ],
+      [
+        "snowmobile",
+        0.06137463077902794
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h140-l80.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9407991766929626
+      ],
+      [
+        "Animation",
+        0.7231491804122925
+      ],
+      [
+        "Outerwear",
+        0.717257559299469
+      ],
+      [
+        "Personal protective equipment",
+        0.6738846302032471
+      ],
+      [
+        "Recreation",
+        0.5942989587783813
+      ],
+      [
+        "Running",
+        0.5301457643508911
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ],
+      [
+        "Games",
+        0.5211578011512756
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ],
+      [
+        "Sleeve",
+        0.5001645088195801
+      ]
+    ],
+    "mobilenet": [
+      [
+        "snowmobile",
+        0.07368868589401245
+      ],
+      [
+        "African chameleon",
+        0.06626089662313461
+      ],
+      [
+        "kite",
+        0.06046852469444275
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h140-l90.jpg",
+    "vision": [
+      [
+        "Jumping",
+        0.7174000144004822
+      ],
+      [
+        "Animation",
+        0.707575261592865
+      ],
+      [
+        "Recreation",
+        0.6427465081214905
+      ],
+      [
+        "T-shirt",
+        0.5438827276229858
+      ],
+      [
+        "Running",
+        0.5357353687286377
+      ],
+      [
+        "Extreme sport",
+        0.5104001760482788
+      ]
+    ],
+    "mobilenet": [
+      [
+        "airship",
+        0.09888342022895813
+      ],
+      [
+        "kite",
+        0.0918956845998764
+      ],
+      [
+        "parachute",
+        0.07473806291818619
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h160-l10.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9068462252616882
+      ],
+      [
+        "Silhouette",
+        0.8480820655822754
+      ],
+      [
+        "Shadow",
+        0.6064329743385315
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "African chameleon",
+        0.09897956252098083
+      ],
+      [
+        "mask",
+        0.05628812685608864
+      ],
+      [
+        "triceratops",
+        0.047962360084056854
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h160-l20.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9634645581245422
+      ],
+      [
+        "Animation",
+        0.736576497554779
+      ],
+      [
+        "Silhouette",
+        0.6737263798713684
+      ],
+      [
+        "Fictional character",
+        0.6590808033943176
+      ],
+      [
+        "Illustration",
+        0.6017356514930725
+      ],
+      [
+        "3d modeling",
+        0.5232404470443726
+      ],
+      [
+        "Sketch",
+        0.5196725130081177
+      ],
+      [
+        "Drawing",
+        0.5111506581306458
+      ]
+    ],
+    "mobilenet": [
+      [
+        "mask",
+        0.137641042470932
+      ],
+      [
+        "African chameleon",
+        0.11607273668050766
+      ],
+      [
+        "triceratops",
+        0.044808704406023026
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h160-l30.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9718501567840576
+      ],
+      [
+        "Animation",
+        0.736576497554779
+      ],
+      [
+        "Fictional character",
+        0.6729325652122498
+      ],
+      [
+        "3d modeling",
+        0.6646565198898315
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "mask",
+        0.1627563238143921
+      ],
+      [
+        "African chameleon",
+        0.09232867509126663
+      ],
+      [
+        "triceratops",
+        0.04650762304663658
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h160-l40.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9816998839378357
+      ],
+      [
+        "Animation",
+        0.7586654424667358
+      ],
+      [
+        "3d modeling",
+        0.7493690848350525
+      ],
+      [
+        "Fictional character",
+        0.6417872905731201
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "mask",
+        0.22658661007881165
+      ],
+      [
+        "African chameleon",
+        0.06293325126171112
+      ],
+      [
+        "pedestal",
+        0.04204299673438072
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h160-l50.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9800379276275635
+      ],
+      [
+        "Animation",
+        0.6399007439613342
+      ],
+      [
+        "Fictional character",
+        0.5859824419021606
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "mask",
+        0.2421685755252838
+      ],
+      [
+        "pedestal",
+        0.043485917150974274
+      ],
+      [
+        "African chameleon",
+        0.04087502881884575
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h160-l60.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9679495096206665
+      ],
+      [
+        "Animation",
+        0.7761974930763245
+      ],
+      [
+        "Fictional character",
+        0.6590808033943176
+      ],
+      [
+        "Outerwear",
+        0.6577929258346558
+      ],
+      [
+        "Illustration",
+        0.5451834201812744
+      ],
+      [
+        "3d modeling",
+        0.5232404470443726
+      ]
+    ],
+    "mobilenet": [
+      [
+        "mask",
+        0.16286005079746246
+      ],
+      [
+        "African chameleon",
+        0.057483475655317307
+      ],
+      [
+        "oxygen mask",
+        0.05308595672249794
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h160-l70.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9620494246482849
+      ],
+      [
+        "Animation",
+        0.7678998708724976
+      ],
+      [
+        "3d modeling",
+        0.66065514087677
+      ],
+      [
+        "Outerwear",
+        0.6577929258346558
+      ],
+      [
+        "Fictional character",
+        0.5859824419021606
+      ],
+      [
+        "Games",
+        0.5211578011512756
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "oxygen mask",
+        0.0863700732588768
+      ],
+      [
+        "snowmobile",
+        0.08050522208213806
+      ],
+      [
+        "mask",
+        0.07010114938020706
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h160-l80.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9194968938827515
+      ],
+      [
+        "Outerwear",
+        0.73502516746521
+      ],
+      [
+        "Animation",
+        0.7231491804122925
+      ],
+      [
+        "Recreation",
+        0.5942989587783813
+      ],
+      [
+        "Illustration",
+        0.5765818953514099
+      ],
+      [
+        "Sleeve",
+        0.5762373208999634
+      ],
+      [
+        "Running",
+        0.5357353687286377
+      ],
+      [
+        "Games",
+        0.5211578011512756
+      ],
+      [
+        "T-shirt",
+        0.5017428994178772
+      ]
+    ],
+    "mobilenet": [
+      [
+        "snowmobile",
+        0.12988489866256714
+      ],
+      [
+        "kite",
+        0.08607247471809387
+      ],
+      [
+        "oxygen mask",
+        0.05451112985610962
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h160-l90.jpg",
+    "vision": [
+      [
+        "Animation",
+        0.707575261592865
+      ],
+      [
+        "Fun",
+        0.7039424180984497
+      ],
+      [
+        "Jumping",
+        0.6742571592330933
+      ],
+      [
+        "Recreation",
+        0.6427465081214905
+      ],
+      [
+        "T-shirt",
+        0.5438827276229858
+      ],
+      [
+        "Extreme sport",
+        0.5104001760482788
+      ]
+    ],
+    "mobilenet": [
+      [
+        "neck brace",
+        0.09743620455265045
+      ],
+      [
+        "airship",
+        0.07751984149217606
+      ],
+      [
+        "kite",
+        0.07526770234107971
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h180-l10.jpg",
+    "vision": [
+      [
+        "Silhouette",
+        0.8887009024620056
+      ],
+      [
+        "Shadow",
+        0.6920684576034546
+      ],
+      [
+        "Animation",
+        0.5582482814788818
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "ski mask",
+        0.11592749506235123
+      ],
+      [
+        "African chameleon",
+        0.08128268271684647
+      ],
+      [
+        "mask",
+        0.07055597007274628
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h180-l20.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9518325924873352
+      ],
+      [
+        "Animation",
+        0.7231491804122925
+      ],
+      [
+        "Silhouette",
+        0.670677125453949
+      ],
+      [
+        "Fictional character",
+        0.6189797520637512
+      ],
+      [
+        "3d modeling",
+        0.5830509662628174
+      ],
+      [
+        "Illustration",
+        0.5765818953514099
+      ]
+    ],
+    "mobilenet": [
+      [
+        "mask",
+        0.1585727483034134
+      ],
+      [
+        "pedestal",
+        0.09327968955039978
+      ],
+      [
+        "ski mask",
+        0.0641050636768341
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h180-l30.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9587113857269287
+      ],
+      [
+        "Animation",
+        0.7483060956001282
+      ],
+      [
+        "3d modeling",
+        0.6905810832977295
+      ],
+      [
+        "Outerwear",
+        0.6577929258346558
+      ],
+      [
+        "Muscle",
+        0.6424193978309631
+      ],
+      [
+        "Fictional character",
+        0.5859824419021606
+      ],
+      [
+        "Illustration",
+        0.5765818953514099
+      ],
+      [
+        "Silhouette",
+        0.5029124021530151
+      ]
+    ],
+    "mobilenet": [
+      [
+        "mask",
+        0.16551847755908966
+      ],
+      [
+        "pedestal",
+        0.09988179057836533
+      ],
+      [
+        "ski mask",
+        0.06651797890663147
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h180-l40.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9741525650024414
+      ],
+      [
+        "3d modeling",
+        0.8043605089187622
+      ],
+      [
+        "Animation",
+        0.7905391454696655
+      ],
+      [
+        "Organism",
+        0.7151590585708618
+      ],
+      [
+        "Fictional character",
+        0.5859824419021606
+      ],
+      [
+        "Illustration",
+        0.5451834201812744
+      ]
+    ],
+    "mobilenet": [
+      [
+        "mask",
+        0.21538206934928894
+      ],
+      [
+        "pedestal",
+        0.08924546092748642
+      ],
+      [
+        "oxygen mask",
+        0.05467364192008972
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h180-l50.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9604751467704773
+      ],
+      [
+        "Animation",
+        0.6892195343971252
+      ],
+      [
+        "Illustration",
+        0.6225569844245911
+      ],
+      [
+        "3d modeling",
+        0.5306953191757202
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ]
+    ],
+    "mobilenet": [
+      [
+        "mask",
+        0.20406286418437958
+      ],
+      [
+        "pedestal",
+        0.08636009693145752
+      ],
+      [
+        "oxygen mask",
+        0.0744553953409195
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h180-l60.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9647444486618042
+      ],
+      [
+        "Animation",
+        0.7586654424667358
+      ],
+      [
+        "3d modeling",
+        0.668578565120697
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ],
+      [
+        "Games",
+        0.5211578011512756
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "mask",
+        0.1266978234052658
+      ],
+      [
+        "oxygen mask",
+        0.12450916320085526
+      ],
+      [
+        "pedestal",
+        0.08065178990364075
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h180-l70.jpg",
+    "vision": [
+      [
+        "Green",
+        0.9518325924873352
+      ],
+      [
+        "3d modeling",
+        0.842444658279419
+      ],
+      [
+        "Animation",
+        0.736576497554779
+      ],
+      [
+        "Personal protective equipment",
+        0.5925366282463074
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ],
+      [
+        "Games",
+        0.5211578011512756
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "oxygen mask",
+        0.14962881803512573
+      ],
+      [
+        "snowmobile",
+        0.09994304180145264
+      ],
+      [
+        "parachute",
+        0.0766417384147644
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h180-l80.jpg",
+    "vision": [
+      [
+        "Outerwear",
+        0.693334698677063
+      ],
+      [
+        "Recreation",
+        0.6427465081214905
+      ],
+      [
+        "Animation",
+        0.6399007439613342
+      ],
+      [
+        "Sleeve",
+        0.5610907077789307
+      ],
+      [
+        "Running",
+        0.5564402341842651
+      ],
+      [
+        "Extreme sport",
+        0.545613169670105
+      ],
+      [
+        "Games",
+        0.5211578011512756
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ],
+      [
+        "T-shirt",
+        0.5017428994178772
+      ]
+    ],
+    "mobilenet": [
+      [
+        "snowmobile",
+        0.14913049340248108
+      ],
+      [
+        "kite",
+        0.08479127287864685
+      ],
+      [
+        "parachute",
+        0.07942616194486618
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h180-l90.jpg",
+    "vision": [
+      [
+        "Joint",
+        0.739563524723053
+      ],
+      [
+        "Jumping",
+        0.7118057608604431
+      ],
+      [
+        "Fun",
+        0.7039424180984497
+      ],
+      [
+        "Animation",
+        0.6892195343971252
+      ],
+      [
+        "Recreation",
+        0.6427465081214905
+      ],
+      [
+        "T-shirt",
+        0.5762757062911987
+      ],
+      [
+        "Running",
+        0.5612499713897705
+      ],
+      [
+        "Extreme sport",
+        0.545613169670105
+      ]
+    ],
+    "mobilenet": [
+      [
+        "neck brace",
+        0.11841238290071487
+      ],
+      [
+        "bobsled",
+        0.07248827815055847
+      ],
+      [
+        "airship",
+        0.06532608717679977
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h200-l10.jpg",
+    "vision": [
+      [
+        "Silhouette",
+        0.9228594303131104
+      ],
+      [
+        "Shadow",
+        0.6847954988479614
+      ],
+      [
+        "Illustration",
+        0.5451834201812744
+      ]
+    ],
+    "mobilenet": [
+      [
+        "ski mask",
+        0.24161851406097412
+      ],
+      [
+        "African chameleon",
+        0.036496859043836594
+      ],
+      [
+        "mask",
+        0.03642670810222626
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h200-l20.jpg",
+    "vision": [
+      [
+        "Silhouette",
+        0.872097909450531
+      ],
+      [
+        "Shadow",
+        0.6689300537109375
+      ],
+      [
+        "Animation",
+        0.6399007439613342
+      ],
+      [
+        "Illustration",
+        0.6017356514930725
+      ]
+    ],
+    "mobilenet": [
+      [
+        "ski mask",
+        0.2694777846336365
+      ],
+      [
+        "mask",
+        0.10123961418867111
+      ],
+      [
+        "pedestal",
+        0.05361281335353851
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h200-l30.jpg",
+    "vision": [
+      [
+        "Animation",
+        0.707575261592865
+      ],
+      [
+        "Silhouette",
+        0.6737263798713684
+      ],
+      [
+        "Outerwear",
+        0.6577929258346558
+      ],
+      [
+        "Illustration",
+        0.5765818953514099
+      ],
+      [
+        "Shadow",
+        0.5616394281387329
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ]
+    ],
+    "mobilenet": [
+      [
+        "ski mask",
+        0.21258194744586945
+      ],
+      [
+        "mask",
+        0.11517520248889923
+      ],
+      [
+        "pedestal",
+        0.09779254347085953
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h200-l40.jpg",
+    "vision": [
+      [
+        "Animation",
+        0.736576497554779
+      ],
+      [
+        "Outerwear",
+        0.6577929258346558
+      ],
+      [
+        "Illustration",
+        0.5451834201812744
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ]
+    ],
+    "mobilenet": [
+      [
+        "ski mask",
+        0.14007176458835602
+      ],
+      [
+        "mask",
+        0.13407045602798462
+      ],
+      [
+        "pedestal",
+        0.0949489176273346
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h200-l50.jpg",
+    "vision": [
+      [
+        "Blue",
+        0.926959753036499
+      ],
+      [
+        "Green",
+        0.9068462252616882
+      ],
+      [
+        "Animation",
+        0.6050723195075989
+      ],
+      [
+        "Electric blue",
+        0.5818745493888855
+      ],
+      [
+        "Illustration",
+        0.5451834201812744
+      ],
+      [
+        "3d modeling",
+        0.5379236340522766
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ]
+    ],
+    "mobilenet": [
+      [
+        "mask",
+        0.16919898986816406
+      ],
+      [
+        "oxygen mask",
+        0.08942661434412003
+      ],
+      [
+        "pedestal",
+        0.07432691752910614
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h200-l60.jpg",
+    "vision": [
+      [
+        "Blue",
+        0.9118428230285645
+      ],
+      [
+        "Animation",
+        0.707575261592865
+      ],
+      [
+        "Outerwear",
+        0.6577929258346558
+      ],
+      [
+        "Games",
+        0.5211578011512756
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "oxygen mask",
+        0.11485246568918228
+      ],
+      [
+        "snowmobile",
+        0.10050062835216522
+      ],
+      [
+        "mask",
+        0.08319960534572601
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h200-l70.jpg",
+    "vision": [
+      [
+        "Animation",
+        0.6671455502510071
+      ],
+      [
+        "Outerwear",
+        0.6577929258346558
+      ],
+      [
+        "Games",
+        0.6313320398330688
+      ],
+      [
+        "3d modeling",
+        0.5888209939002991
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ],
+      [
+        "Extreme sport",
+        0.5104001760482788
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "snowmobile",
+        0.17898990213871002
+      ],
+      [
+        "oxygen mask",
+        0.11641743034124374
+      ],
+      [
+        "parachute",
+        0.07203977555036545
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h200-l80.jpg",
+    "vision": [
+      [
+        "Animation",
+        0.6671455502510071
+      ],
+      [
+        "Outerwear",
+        0.6577929258346558
+      ],
+      [
+        "Jumping",
+        0.6403696537017822
+      ],
+      [
+        "Extreme sport",
+        0.6217491030693054
+      ],
+      [
+        "Recreation",
+        0.5942989587783813
+      ]
+    ],
+    "mobilenet": [
+      [
+        "snowmobile",
+        0.20141126215457916
+      ],
+      [
+        "bobsled",
+        0.09573271870613098
+      ],
+      [
+        "parachute",
+        0.08669690042734146
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h200-l90.jpg",
+    "vision": [
+      [
+        "Joint",
+        0.739563524723053
+      ],
+      [
+        "Jumping",
+        0.73824143409729
+      ],
+      [
+        "Fun",
+        0.7039424180984497
+      ],
+      [
+        "Recreation",
+        0.6427465081214905
+      ],
+      [
+        "Animation",
+        0.6399007439613342
+      ],
+      [
+        "T-shirt",
+        0.6023620963096619
+      ],
+      [
+        "Running",
+        0.524368941783905
+      ]
+    ],
+    "mobilenet": [
+      [
+        "bobsled",
+        0.13860853016376495
+      ],
+      [
+        "neck brace",
+        0.09463098645210266
+      ],
+      [
+        "airship",
+        0.0837484747171402
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h220-l10.jpg",
+    "vision": [
+      [
+        "Silhouette",
+        0.9311402440071106
+      ],
+      [
+        "Shadow",
+        0.6920684576034546
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "ski mask",
+        0.3762093484401703
+      ],
+      [
+        "cloak",
+        0.04576939344406128
+      ],
+      [
+        "horizontal bar",
+        0.03104092739522457
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h220-l20.jpg",
+    "vision": [
+      [
+        "Silhouette",
+        0.9060593247413635
+      ],
+      [
+        "Shadow",
+        0.6989554166793823
+      ],
+      [
+        "Illustration",
+        0.5451834201812744
+      ]
+    ],
+    "mobilenet": [
+      [
+        "ski mask",
+        0.30202317237854004
+      ],
+      [
+        "mask",
+        0.04716327041387558
+      ],
+      [
+        "pedestal",
+        0.045418351888656616
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h220-l30.jpg",
+    "vision": [
+      [
+        "Blue",
+        0.9445302486419678
+      ],
+      [
+        "Silhouette",
+        0.8579017519950867
+      ],
+      [
+        "Shadow",
+        0.6509701013565063
+      ],
+      [
+        "Animation",
+        0.6399007439613342
+      ],
+      [
+        "Electric blue",
+        0.6379328370094299
+      ],
+      [
+        "Illustration",
+        0.5451834201812744
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ]
+    ],
+    "mobilenet": [
+      [
+        "ski mask",
+        0.2852519154548645
+      ],
+      [
+        "mask",
+        0.08723104000091553
+      ],
+      [
+        "pedestal",
+        0.061961304396390915
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h220-l40.jpg",
+    "vision": [
+      [
+        "Blue",
+        0.957834005355835
+      ],
+      [
+        "Cobalt blue",
+        0.8978431224822998
+      ],
+      [
+        "Animation",
+        0.6892195343971252
+      ],
+      [
+        "Electric blue",
+        0.6755332946777344
+      ],
+      [
+        "Outerwear",
+        0.6577929258346558
+      ],
+      [
+        "Silhouette",
+        0.5694787502288818
+      ],
+      [
+        "Shadow",
+        0.5230291485786438
+      ]
+    ],
+    "mobilenet": [
+      [
+        "ski mask",
+        0.22684617340564728
+      ],
+      [
+        "mask",
+        0.13296586275100708
+      ],
+      [
+        "oxygen mask",
+        0.06367329508066177
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h220-l50.jpg",
+    "vision": [
+      [
+        "Blue",
+        0.9543808102607727
+      ],
+      [
+        "Cobalt blue",
+        0.8142207860946655
+      ],
+      [
+        "Animation",
+        0.7231491804122925
+      ],
+      [
+        "Outerwear",
+        0.6577929258346558
+      ],
+      [
+        "Muscle",
+        0.6424193978309631
+      ],
+      [
+        "Electric blue",
+        0.6379328370094299
+      ],
+      [
+        "Illustration",
+        0.5451834201812744
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ]
+    ],
+    "mobilenet": [
+      [
+        "ski mask",
+        0.18295639753341675
+      ],
+      [
+        "mask",
+        0.1445961743593216
+      ],
+      [
+        "oxygen mask",
+        0.08288076519966125
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h220-l60.jpg",
+    "vision": [
+      [
+        "Blue",
+        0.9500666856765747
+      ],
+      [
+        "Outerwear",
+        0.693334698677063
+      ],
+      [
+        "Animation",
+        0.6892195343971252
+      ],
+      [
+        "Electric blue",
+        0.5818745493888855
+      ],
+      [
+        "Games",
+        0.5211578011512756
+      ]
+    ],
+    "mobilenet": [
+      [
+        "ski mask",
+        0.15909995138645172
+      ],
+      [
+        "oxygen mask",
+        0.12989532947540283
+      ],
+      [
+        "snowmobile",
+        0.11919673532247543
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h220-l70.jpg",
+    "vision": [
+      [
+        "Outerwear",
+        0.6577929258346558
+      ],
+      [
+        "Animation",
+        0.6050723195075989
+      ],
+      [
+        "Extreme sport",
+        0.5750280618667603
+      ],
+      [
+        "Games",
+        0.5211578011512756
+      ]
+    ],
+    "mobilenet": [
+      [
+        "snowmobile",
+        0.23048189282417297
+      ],
+      [
+        "ski mask",
+        0.09809699654579163
+      ],
+      [
+        "oxygen mask",
+        0.06929699331521988
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h220-l80.jpg",
+    "vision": [
+      [
+        "Fun",
+        0.7039424180984497
+      ],
+      [
+        "Jumping",
+        0.6742571592330933
+      ],
+      [
+        "Extreme sport",
+        0.6407265067100525
+      ],
+      [
+        "Recreation",
+        0.5942989587783813
+      ],
+      [
+        "Animation",
+        0.5582482814788818
+      ]
+    ],
+    "mobilenet": [
+      [
+        "bobsled",
+        0.13611100614070892
+      ],
+      [
+        "snowmobile",
+        0.11875821650028229
+      ],
+      [
+        "neck brace",
+        0.10351807624101639
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h220-l90.jpg",
+    "vision": [
+      [
+        "Fun",
+        0.7039424180984497
+      ],
+      [
+        "Jumping",
+        0.6970484256744385
+      ],
+      [
+        "Outerwear",
+        0.6577929258346558
+      ],
+      [
+        "Animation",
+        0.6050723195075989
+      ],
+      [
+        "Recreation",
+        0.5942989587783813
+      ],
+      [
+        "T-shirt",
+        0.5762757062911987
+      ],
+      [
+        "Style",
+        0.5095184445381165
+      ]
+    ],
+    "mobilenet": [
+      [
+        "bobsled",
+        0.1745561957359314
+      ],
+      [
+        "neck brace",
+        0.09912680089473724
+      ],
+      [
+        "airship",
+        0.07743073999881744
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h240-l10.jpg",
+    "vision": [
+      [
+        "Silhouette",
+        0.9283843040466309
+      ],
+      [
+        "Shadow",
+        0.6188888549804688
+      ],
+      [
+        "Illustration",
+        0.5765818953514099
+      ]
+    ],
+    "mobilenet": [
+      [
+        "American black bear",
+        0.06868929415941238
+      ],
+      [
+        "capuchin",
+        0.06764184683561325
+      ],
+      [
+        "ski mask",
+        0.04675029590725899
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h240-l20.jpg",
+    "vision": [
+      [
+        "Silhouette",
+        0.9186970591545105
+      ],
+      [
+        "Shadow",
+        0.6303861737251282
+      ],
+      [
+        "Illustration",
+        0.5451834201812744
+      ]
+    ],
+    "mobilenet": [
+      [
+        "ski mask",
+        0.10948548465967178
+      ],
+      [
+        "vulture",
+        0.052283160388469696
+      ],
+      [
+        "kite",
+        0.049862660467624664
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h240-l30.jpg",
+    "vision": [
+      [
+        "Blue",
+        0.9118428230285645
+      ],
+      [
+        "Silhouette",
+        0.8842459321022034
+      ],
+      [
+        "Shadow",
+        0.6410464644432068
+      ],
+      [
+        "Electric blue",
+        0.5818745493888855
+      ],
+      [
+        "Illustration",
+        0.5765818953514099
+      ]
+    ],
+    "mobilenet": [
+      [
+        "ski mask",
+        0.11383437365293503
+      ],
+      [
+        "vulture",
+        0.052493758499622345
+      ],
+      [
+        "cloak",
+        0.04184788465499878
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h240-l40.jpg",
+    "vision": [
+      [
+        "Blue",
+        0.9371774196624756
+      ],
+      [
+        "Silhouette",
+        0.8989087343215942
+      ],
+      [
+        "Cobalt blue",
+        0.8488950133323669
+      ],
+      [
+        "Electric blue",
+        0.6755332946777344
+      ],
+      [
+        "Shadow",
+        0.6064329743385315
+      ],
+      [
+        "Illustration",
+        0.6017356514930725
+      ]
+    ],
+    "mobilenet": [
+      [
+        "ski mask",
+        0.10082755237817764
+      ],
+      [
+        "cloak",
+        0.04665283113718033
+      ],
+      [
+        "vulture",
+        0.04181346669793129
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h240-l50.jpg",
+    "vision": [
+      [
+        "Blue",
+        0.957834005355835
+      ],
+      [
+        "Cobalt blue",
+        0.9360015988349915
+      ],
+      [
+        "Silhouette",
+        0.8782230019569397
+      ],
+      [
+        "Electric blue",
+        0.788791835308075
+      ],
+      [
+        "Shadow",
+        0.6303861737251282
+      ],
+      [
+        "Illustration",
+        0.5765818953514099
+      ],
+      [
+        "Drawing",
+        0.5111506581306458
+      ],
+      [
+        "Art",
+        0.502187192440033
+      ]
+    ],
+    "mobilenet": [
+      [
+        "ski mask",
+        0.0856219232082367
+      ],
+      [
+        "pedestal",
+        0.051180265843868256
+      ],
+      [
+        "cloak",
+        0.03874509409070015
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h240-l60.jpg",
+    "vision": [
+      [
+        "Blue",
+        0.9500666856765747
+      ],
+      [
+        "Purple",
+        0.9301493167877197
+      ],
+      [
+        "Cobalt blue",
+        0.8488950133323669
+      ],
+      [
+        "Violet",
+        0.8196554183959961
+      ],
+      [
+        "Electric blue",
+        0.742108941078186
+      ],
+      [
+        "Illustration",
+        0.5765818953514099
+      ],
+      [
+        "Animation",
+        0.5582482814788818
+      ],
+      [
+        "Silhouette",
+        0.5563457608222961
+      ]
+    ],
+    "mobilenet": [
+      [
+        "snowmobile",
+        0.11006809026002884
+      ],
+      [
+        "pedestal",
+        0.08497023582458496
+      ],
+      [
+        "ski mask",
+        0.0778251588344574
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h240-l70.jpg",
+    "vision": [
+      [
+        "Purple",
+        0.9575363993644714
+      ],
+      [
+        "Violet",
+        0.9146798253059387
+      ],
+      [
+        "Animation",
+        0.707575261592865
+      ],
+      [
+        "Outerwear",
+        0.6577929258346558
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "snowmobile",
+        0.3048214316368103
+      ],
+      [
+        "ski mask",
+        0.07804927974939346
+      ],
+      [
+        "parachute",
+        0.053209174424409866
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h240-l80.jpg",
+    "vision": [
+      [
+        "Purple",
+        0.8898801803588867
+      ],
+      [
+        "Animation",
+        0.6671455502510071
+      ],
+      [
+        "Outerwear",
+        0.6577929258346558
+      ],
+      [
+        "Jumping",
+        0.5783644914627075
+      ]
+    ],
+    "mobilenet": [
+      [
+        "snowmobile",
+        0.1591097116470337
+      ],
+      [
+        "neck brace",
+        0.14353227615356445
+      ],
+      [
+        "parachute",
+        0.08421764522790909
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h240-l90.jpg",
+    "vision": [
+      [
+        "Jumping",
+        0.7547383308410645
+      ],
+      [
+        "Fun",
+        0.7039424180984497
+      ],
+      [
+        "Animation",
+        0.6399007439613342
+      ],
+      [
+        "Recreation",
+        0.5942989587783813
+      ],
+      [
+        "T-shirt",
+        0.5438827276229858
+      ],
+      [
+        "Style",
+        0.5095184445381165
+      ]
+    ],
+    "mobilenet": [
+      [
+        "bobsled",
+        0.15358565747737885
+      ],
+      [
+        "neck brace",
+        0.09581922739744186
+      ],
+      [
+        "airship",
+        0.064512699842453
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h260-l10.jpg",
+    "vision": [
+      [
+        "Silhouette",
+        0.9380286335945129
+      ],
+      [
+        "Shadow",
+        0.6303861737251282
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "ski mask",
+        0.13948582112789154
+      ],
+      [
+        "schipperke",
+        0.051873527467250824
+      ],
+      [
+        "capuchin",
+        0.05054730921983719
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h260-l20.jpg",
+    "vision": [
+      [
+        "Purple",
+        0.9003373384475708
+      ],
+      [
+        "Silhouette",
+        0.8960171937942505
+      ],
+      [
+        "Violet",
+        0.8402164578437805
+      ],
+      [
+        "Shadow",
+        0.5928702354431152
+      ],
+      [
+        "Illustration",
+        0.5451834201812744
+      ]
+    ],
+    "mobilenet": [
+      [
+        "ski mask",
+        0.1405690312385559
+      ],
+      [
+        "horizontal bar",
+        0.05119435489177704
+      ],
+      [
+        "pedestal",
+        0.05061595141887665
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h260-l30.jpg",
+    "vision": [
+      [
+        "Purple",
+        0.9519335031509399
+      ],
+      [
+        "Violet",
+        0.9146798253059387
+      ],
+      [
+        "Silhouette",
+        0.8091134428977966
+      ],
+      [
+        "Shadow",
+        0.6303861737251282
+      ],
+      [
+        "Illustration",
+        0.6017356514930725
+      ],
+      [
+        "Animation",
+        0.5582482814788818
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.08095425367355347
+      ],
+      [
+        "ski mask",
+        0.0698145180940628
+      ],
+      [
+        "pedestal",
+        0.04498060792684555
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h260-l40.jpg",
+    "vision": [
+      [
+        "Purple",
+        0.9591085314750671
+      ],
+      [
+        "Violet",
+        0.9286768436431885
+      ],
+      [
+        "Silhouette",
+        0.7596654891967773
+      ],
+      [
+        "Magenta",
+        0.6400059461593628
+      ],
+      [
+        "Illustration",
+        0.6225569844245911
+      ],
+      [
+        "Animation",
+        0.6050723195075989
+      ],
+      [
+        "Shadow",
+        0.5230291485786438
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.0720536857843399
+      ],
+      [
+        "ski mask",
+        0.049485087394714355
+      ],
+      [
+        "balance beam",
+        0.04478813707828522
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h260-l50.jpg",
+    "vision": [
+      [
+        "Purple",
+        0.9639682173728943
+      ],
+      [
+        "Violet",
+        0.9350296258926392
+      ],
+      [
+        "Silhouette",
+        0.7458388805389404
+      ],
+      [
+        "Magenta",
+        0.6806987524032593
+      ],
+      [
+        "Electric blue",
+        0.6755332946777344
+      ],
+      [
+        "Dancer",
+        0.6121727228164673
+      ],
+      [
+        "Illustration",
+        0.5765818953514099
+      ]
+    ],
+    "mobilenet": [
+      [
+        "balance beam",
+        0.0560351237654686
+      ],
+      [
+        "horizontal bar",
+        0.055313095450401306
+      ],
+      [
+        "German shepherd",
+        0.04831741377711296
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h260-l60.jpg",
+    "vision": [
+      [
+        "Purple",
+        0.9643624424934387
+      ],
+      [
+        "Violet",
+        0.9187582731246948
+      ],
+      [
+        "Magenta",
+        0.6400059461593628
+      ],
+      [
+        "Animation",
+        0.6050723195075989
+      ],
+      [
+        "Illustration",
+        0.5765818953514099
+      ]
+    ],
+    "mobilenet": [
+      [
+        "snowmobile",
+        0.10245006531476974
+      ],
+      [
+        "balance beam",
+        0.06564071029424667
+      ],
+      [
+        "ski mask",
+        0.04228026419878006
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h260-l70.jpg",
+    "vision": [
+      [
+        "Purple",
+        0.9606796503067017
+      ],
+      [
+        "Violet",
+        0.9300636649131775
+      ],
+      [
+        "Animation",
+        0.7483060956001282
+      ],
+      [
+        "Outerwear",
+        0.693334698677063
+      ],
+      [
+        "Magenta",
+        0.6129621267318726
+      ],
+      [
+        "Illustration",
+        0.5765818953514099
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ]
+    ],
+    "mobilenet": [
+      [
+        "snowmobile",
+        0.1867675930261612
+      ],
+      [
+        "balance beam",
+        0.08624617755413055
+      ],
+      [
+        "parachute",
+        0.05556297302246094
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h260-l80.jpg",
+    "vision": [
+      [
+        "Purple",
+        0.9188283681869507
+      ],
+      [
+        "Pink",
+        0.8449604511260986
+      ],
+      [
+        "Violet",
+        0.8306282162666321
+      ],
+      [
+        "Animation",
+        0.7586654424667358
+      ],
+      [
+        "Outerwear",
+        0.6577929258346558
+      ],
+      [
+        "Illustration",
+        0.5765818953514099
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ],
+      [
+        "Style",
+        0.5095184445381165
+      ]
+    ],
+    "mobilenet": [
+      [
+        "snowmobile",
+        0.12250524014234543
+      ],
+      [
+        "neck brace",
+        0.11555228382349014
+      ],
+      [
+        "parachute",
+        0.09952940046787262
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h260-l90.jpg",
+    "vision": [
+      [
+        "Jumping",
+        0.750173032283783
+      ],
+      [
+        "Fun",
+        0.7039424180984497
+      ],
+      [
+        "Animation",
+        0.6671455502510071
+      ],
+      [
+        "Recreation",
+        0.5942989587783813
+      ],
+      [
+        "Style",
+        0.5095184445381165
+      ],
+      [
+        "T-shirt",
+        0.5017428994178772
+      ]
+    ],
+    "mobilenet": [
+      [
+        "bobsled",
+        0.13274218142032623
+      ],
+      [
+        "balance beam",
+        0.09731145948171616
+      ],
+      [
+        "airship",
+        0.06563438475131989
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h280-l10.jpg",
+    "vision": [
+      [
+        "Silhouette",
+        0.9283843040466309
+      ],
+      [
+        "Shadow",
+        0.6188888549804688
+      ],
+      [
+        "Illustration",
+        0.5451834201812744
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.09682221710681915
+      ],
+      [
+        "ski mask",
+        0.08996769785881042
+      ],
+      [
+        "schipperke",
+        0.07822812348604202
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h280-l20.jpg",
+    "vision": [
+      [
+        "Purple",
+        0.9491455554962158
+      ],
+      [
+        "Violet",
+        0.8989397287368774
+      ],
+      [
+        "Silhouette",
+        0.7505227327346802
+      ],
+      [
+        "Magenta",
+        0.6965740323066711
+      ],
+      [
+        "Illustration",
+        0.6402102112770081
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.08684612810611725
+      ],
+      [
+        "hoopskirt",
+        0.058886364102363586
+      ],
+      [
+        "balance beam",
+        0.05360087379813194
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h280-l30.jpg",
+    "vision": [
+      [
+        "Purple",
+        0.9606796503067017
+      ],
+      [
+        "Violet",
+        0.9167771339416504
+      ],
+      [
+        "Pink",
+        0.8449604511260986
+      ],
+      [
+        "Magenta",
+        0.7734654545783997
+      ],
+      [
+        "Illustration",
+        0.6554555892944336
+      ],
+      [
+        "Animation",
+        0.6399007439613342
+      ],
+      [
+        "Silhouette",
+        0.5941877365112305
+      ]
+    ],
+    "mobilenet": [
+      [
+        "balance beam",
+        0.08565305173397064
+      ],
+      [
+        "horizontal bar",
+        0.07152769714593887
+      ],
+      [
+        "hoopskirt",
+        0.05537330359220505
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h280-l40.jpg",
+    "vision": [
+      [
+        "Purple",
+        0.9618933796882629
+      ],
+      [
+        "Violet",
+        0.9206328392028809
+      ],
+      [
+        "Pink",
+        0.8449604511260986
+      ],
+      [
+        "Magenta",
+        0.8196961879730225
+      ],
+      [
+        "Illustration",
+        0.7008524537086487
+      ],
+      [
+        "Animation",
+        0.6671455502510071
+      ],
+      [
+        "Silhouette",
+        0.5283132195472717
+      ]
+    ],
+    "mobilenet": [
+      [
+        "balance beam",
+        0.11637187749147415
+      ],
+      [
+        "horizontal bar",
+        0.06356897950172424
+      ],
+      [
+        "hoopskirt",
+        0.0531005784869194
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h280-l50.jpg",
+    "vision": [
+      [
+        "Purple",
+        0.9639682173728943
+      ],
+      [
+        "Violet",
+        0.9240955114364624
+      ],
+      [
+        "Pink",
+        0.8449604511260986
+      ],
+      [
+        "Magenta",
+        0.826128363609314
+      ],
+      [
+        "Illustration",
+        0.6017356514930725
+      ],
+      [
+        "Dancer",
+        0.5762021541595459
+      ]
+    ],
+    "mobilenet": [
+      [
+        "balance beam",
+        0.15818458795547485
+      ],
+      [
+        "horizontal bar",
+        0.0634956806898117
+      ],
+      [
+        "hoopskirt",
+        0.0578349232673645
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h280-l60.jpg",
+    "vision": [
+      [
+        "Purple",
+        0.9643624424934387
+      ],
+      [
+        "Violet",
+        0.9167771339416504
+      ],
+      [
+        "Pink",
+        0.879741907119751
+      ],
+      [
+        "Magenta",
+        0.779617965221405
+      ],
+      [
+        "Animation",
+        0.707575261592865
+      ],
+      [
+        "Illustration",
+        0.6554555892944336
+      ],
+      [
+        "Dancer",
+        0.5951111912727356
+      ]
+    ],
+    "mobilenet": [
+      [
+        "balance beam",
+        0.13642358779907227
+      ],
+      [
+        "hoopskirt",
+        0.07044018805027008
+      ],
+      [
+        "snowmobile",
+        0.05370717495679855
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h280-l70.jpg",
+    "vision": [
+      [
+        "Purple",
+        0.9577738642692566
+      ],
+      [
+        "Violet",
+        0.8989397287368774
+      ],
+      [
+        "Pink",
+        0.8907880783081055
+      ],
+      [
+        "Animation",
+        0.7586654424667358
+      ],
+      [
+        "Magenta",
+        0.7332508563995361
+      ],
+      [
+        "Outerwear",
+        0.6577929258346558
+      ],
+      [
+        "Illustration",
+        0.5765818953514099
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ]
+    ],
+    "mobilenet": [
+      [
+        "balance beam",
+        0.13019435107707977
+      ],
+      [
+        "snowmobile",
+        0.07638207077980042
+      ],
+      [
+        "hoopskirt",
+        0.049917206168174744
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h280-l80.jpg",
+    "vision": [
+      [
+        "Purple",
+        0.922134280204773
+      ],
+      [
+        "Pink",
+        0.9065314531326294
+      ],
+      [
+        "Violet",
+        0.8402164578437805
+      ],
+      [
+        "Animation",
+        0.7586654424667358
+      ],
+      [
+        "Magenta",
+        0.6129621267318726
+      ],
+      [
+        "Jumping",
+        0.5944257378578186
+      ],
+      [
+        "Illustration",
+        0.5765818953514099
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ]
+    ],
+    "mobilenet": [
+      [
+        "balance beam",
+        0.1503111720085144
+      ],
+      [
+        "parachute",
+        0.11284024268388748
+      ],
+      [
+        "snowmobile",
+        0.10389111936092377
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h280-l90.jpg",
+    "vision": [
+      [
+        "Jumping",
+        0.6810495853424072
+      ],
+      [
+        "Animation",
+        0.6399007439613342
+      ],
+      [
+        "Recreation",
+        0.5942989587783813
+      ],
+      [
+        "Style",
+        0.5095184445381165
+      ]
+    ],
+    "mobilenet": [
+      [
+        "balance beam",
+        0.15511231124401093
+      ],
+      [
+        "bobsled",
+        0.09897395968437195
+      ],
+      [
+        "piggy bank",
+        0.06117362901568413
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h300-l10.jpg",
+    "vision": [
+      [
+        "Purple",
+        0.8702540993690491
+      ],
+      [
+        "Silhouette",
+        0.8562859892845154
+      ],
+      [
+        "Illustration",
+        0.5765818953514099
+      ],
+      [
+        "Magenta",
+        0.5334160923957825
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.27307504415512085
+      ],
+      [
+        "balance beam",
+        0.05195154249668121
+      ],
+      [
+        "parallel bars",
+        0.041321806609630585
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h300-l20.jpg",
+    "vision": [
+      [
+        "Purple",
+        0.9434795379638672
+      ],
+      [
+        "Violet",
+        0.8689689636230469
+      ],
+      [
+        "Pink",
+        0.8651782274246216
+      ],
+      [
+        "Magenta",
+        0.8229926824569702
+      ],
+      [
+        "Illustration",
+        0.7095673680305481
+      ],
+      [
+        "Silhouette",
+        0.6549367308616638
+      ],
+      [
+        "Animation",
+        0.5582482814788818
+      ],
+      [
+        "Drawing",
+        0.5111506581306458
+      ],
+      [
+        "Art",
+        0.502187192440033
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.1638801395893097
+      ],
+      [
+        "balance beam",
+        0.10448364913463593
+      ],
+      [
+        "parallel bars",
+        0.07039673626422882
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h300-l30.jpg",
+    "vision": [
+      [
+        "Purple",
+        0.9565383791923523
+      ],
+      [
+        "Pink",
+        0.9123681783676147
+      ],
+      [
+        "Violet",
+        0.8840106129646301
+      ],
+      [
+        "Magenta",
+        0.86944979429245
+      ],
+      [
+        "Illustration",
+        0.6688148975372314
+      ],
+      [
+        "Animation",
+        0.6399007439613342
+      ]
+    ],
+    "mobilenet": [
+      [
+        "balance beam",
+        0.15393419563770294
+      ],
+      [
+        "horizontal bar",
+        0.133365198969841
+      ],
+      [
+        "hoopskirt",
+        0.06495003402233124
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h300-l40.jpg",
+    "vision": [
+      [
+        "Purple",
+        0.9519335031509399
+      ],
+      [
+        "Violet",
+        0.8920605182647705
+      ],
+      [
+        "Pink",
+        0.8907880783081055
+      ],
+      [
+        "Magenta",
+        0.868011474609375
+      ],
+      [
+        "Illustration",
+        0.6688148975372314
+      ],
+      [
+        "Dancer",
+        0.6121727228164673
+      ],
+      [
+        "Animation",
+        0.5582482814788818
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ]
+    ],
+    "mobilenet": [
+      [
+        "balance beam",
+        0.21230405569076538
+      ],
+      [
+        "horizontal bar",
+        0.147536039352417
+      ],
+      [
+        "parallel bars",
+        0.07062680274248123
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h300-l50.jpg",
+    "vision": [
+      [
+        "Purple",
+        0.9529851078987122
+      ],
+      [
+        "Pink",
+        0.9283608794212341
+      ],
+      [
+        "Violet",
+        0.9020187854766846
+      ],
+      [
+        "Magenta",
+        0.8760757446289062
+      ],
+      [
+        "Illustration",
+        0.6225569844245911
+      ],
+      [
+        "Dancer",
+        0.5951111912727356
+      ],
+      [
+        "Animation",
+        0.5582482814788818
+      ]
+    ],
+    "mobilenet": [
+      [
+        "balance beam",
+        0.2157329022884369
+      ],
+      [
+        "horizontal bar",
+        0.15862108767032623
+      ],
+      [
+        "parallel bars",
+        0.06364205479621887
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h300-l60.jpg",
+    "vision": [
+      [
+        "Purple",
+        0.9572942852973938
+      ],
+      [
+        "Pink",
+        0.9172913432121277
+      ],
+      [
+        "Violet",
+        0.9075756669044495
+      ],
+      [
+        "Magenta",
+        0.8584148287773132
+      ],
+      [
+        "Illustration",
+        0.6017356514930725
+      ],
+      [
+        "Animation",
+        0.5582482814788818
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ]
+    ],
+    "mobilenet": [
+      [
+        "balance beam",
+        0.182706817984581
+      ],
+      [
+        "horizontal bar",
+        0.12859928607940674
+      ],
+      [
+        "hoopskirt",
+        0.059586867690086365
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h300-l70.jpg",
+    "vision": [
+      [
+        "Purple",
+        0.9499951601028442
+      ],
+      [
+        "Pink",
+        0.9380224943161011
+      ],
+      [
+        "Violet",
+        0.8744543194770813
+      ],
+      [
+        "Magenta",
+        0.8045849800109863
+      ],
+      [
+        "Animation",
+        0.7483060956001282
+      ],
+      [
+        "Illustration",
+        0.6402102112770081
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ],
+      [
+        "Dance",
+        0.5005141496658325
+      ]
+    ],
+    "mobilenet": [
+      [
+        "balance beam",
+        0.1601065844297409
+      ],
+      [
+        "horizontal bar",
+        0.09310229122638702
+      ],
+      [
+        "parachute",
+        0.04709019884467125
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h300-l80.jpg",
+    "vision": [
+      [
+        "Pink",
+        0.9172913432121277
+      ],
+      [
+        "Purple",
+        0.8936775922775269
+      ],
+      [
+        "Animation",
+        0.7483060956001282
+      ],
+      [
+        "Illustration",
+        0.6225569844245911
+      ],
+      [
+        "Magenta",
+        0.6129621267318726
+      ],
+      [
+        "Jumping",
+        0.5838568210601807
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ]
+    ],
+    "mobilenet": [
+      [
+        "balance beam",
+        0.15969440340995789
+      ],
+      [
+        "parachute",
+        0.10402072221040726
+      ],
+      [
+        "snowmobile",
+        0.08282766491174698
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h300-l90.jpg",
+    "vision": [
+      [
+        "Pink",
+        0.879741907119751
+      ],
+      [
+        "Jumping",
+        0.7656810879707336
+      ],
+      [
+        "Animation",
+        0.707575261592865
+      ],
+      [
+        "Recreation",
+        0.5942989587783813
+      ],
+      [
+        "Happy",
+        0.5412643551826477
+      ],
+      [
+        "Style",
+        0.5245553255081177
+      ]
+    ],
+    "mobilenet": [
+      [
+        "balance beam",
+        0.1691618114709854
+      ],
+      [
+        "bobsled",
+        0.09563428163528442
+      ],
+      [
+        "piggy bank",
+        0.06275378912687302
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h320-l10.jpg",
+    "vision": [
+      [
+        "Silhouette",
+        0.8842459321022034
+      ],
+      [
+        "Maroon",
+        0.8139804005622864
+      ],
+      [
+        "Illustration",
+        0.5765818953514099
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.3906242847442627
+      ],
+      [
+        "parallel bars",
+        0.05832064151763916
+      ],
+      [
+        "bloodhound",
+        0.044714026153087616
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h320-l20.jpg",
+    "vision": [
+      [
+        "Red",
+        0.9245085120201111
+      ],
+      [
+        "Purple",
+        0.826901912689209
+      ],
+      [
+        "Maroon",
+        0.8210887908935547
+      ],
+      [
+        "Pink",
+        0.8146790266036987
+      ],
+      [
+        "Illustration",
+        0.7438470125198364
+      ],
+      [
+        "Magenta",
+        0.6965740323066711
+      ],
+      [
+        "Silhouette",
+        0.6383102536201477
+      ],
+      [
+        "Drawing",
+        0.5580340623855591
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ],
+      [
+        "Art",
+        0.502187192440033
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.41570690274238586
+      ],
+      [
+        "parallel bars",
+        0.12216214090585709
+      ],
+      [
+        "balance beam",
+        0.10068918764591217
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h320-l30.jpg",
+    "vision": [
+      [
+        "Red",
+        0.9312219619750977
+      ],
+      [
+        "Purple",
+        0.9003373384475708
+      ],
+      [
+        "Pink",
+        0.8907880783081055
+      ],
+      [
+        "Magenta",
+        0.8086885809898376
+      ],
+      [
+        "Illustration",
+        0.7438470125198364
+      ],
+      [
+        "Animation",
+        0.5582482814788818
+      ],
+      [
+        "Silhouette",
+        0.5379354357719421
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ],
+      [
+        "Drawing",
+        0.5111506581306458
+      ],
+      [
+        "Art",
+        0.502187192440033
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.29137304425239563
+      ],
+      [
+        "balance beam",
+        0.11300614476203918
+      ],
+      [
+        "parallel bars",
+        0.09967651963233948
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h320-l40.jpg",
+    "vision": [
+      [
+        "Pink",
+        0.9431272745132446
+      ],
+      [
+        "Purple",
+        0.9370301961898804
+      ],
+      [
+        "Red",
+        0.9245085120201111
+      ],
+      [
+        "Magenta",
+        0.9005089998245239
+      ],
+      [
+        "Violet",
+        0.8196554183959961
+      ],
+      [
+        "Illustration",
+        0.6688148975372314
+      ],
+      [
+        "Animation",
+        0.6399007439613342
+      ],
+      [
+        "Silhouette",
+        0.5426395535469055
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.2812487781047821
+      ],
+      [
+        "balance beam",
+        0.13364483416080475
+      ],
+      [
+        "parallel bars",
+        0.08939068764448166
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h320-l50.jpg",
+    "vision": [
+      [
+        "Pink",
+        0.9251598119735718
+      ],
+      [
+        "Red",
+        0.901925265789032
+      ],
+      [
+        "Purple",
+        0.8898801803588867
+      ],
+      [
+        "Magenta",
+        0.8566299676895142
+      ],
+      [
+        "Illustration",
+        0.6402102112770081
+      ],
+      [
+        "Fictional character",
+        0.5859824419021606
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.2819817066192627
+      ],
+      [
+        "balance beam",
+        0.13337859511375427
+      ],
+      [
+        "parallel bars",
+        0.08854938298463821
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h320-l60.jpg",
+    "vision": [
+      [
+        "Pink",
+        0.9458781480789185
+      ],
+      [
+        "Purple",
+        0.9386546611785889
+      ],
+      [
+        "Magenta",
+        0.868011474609375
+      ],
+      [
+        "Violet",
+        0.8629117608070374
+      ],
+      [
+        "Animation",
+        0.7483060956001282
+      ],
+      [
+        "Illustration",
+        0.6225569844245911
+      ],
+      [
+        "Fictional character",
+        0.5859824419021606
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.24723440408706665
+      ],
+      [
+        "balance beam",
+        0.1174113005399704
+      ],
+      [
+        "parallel bars",
+        0.07700799405574799
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h320-l70.jpg",
+    "vision": [
+      [
+        "Pink",
+        0.9482415318489075
+      ],
+      [
+        "Purple",
+        0.9130516648292542
+      ],
+      [
+        "Magenta",
+        0.826128363609314
+      ],
+      [
+        "Animation",
+        0.7231491804122925
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.13862566649913788
+      ],
+      [
+        "balance beam",
+        0.13639670610427856
+      ],
+      [
+        "parallel bars",
+        0.05797755718231201
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h320-l80.jpg",
+    "vision": [
+      [
+        "Pink",
+        0.9445571303367615
+      ],
+      [
+        "Animation",
+        0.7231491804122925
+      ],
+      [
+        "Fun",
+        0.7039424180984497
+      ],
+      [
+        "Jumping",
+        0.6523269414901733
+      ],
+      [
+        "Magenta",
+        0.6129621267318726
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ],
+      [
+        "Illustration",
+        0.5040763020515442
+      ]
+    ],
+    "mobilenet": [
+      [
+        "balance beam",
+        0.143253892660141
+      ],
+      [
+        "parachute",
+        0.0705956369638443
+      ],
+      [
+        "snowmobile",
+        0.06547388434410095
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h320-l90.jpg",
+    "vision": [
+      [
+        "Pink",
+        0.8146790266036987
+      ],
+      [
+        "Jumping",
+        0.7819424867630005
+      ],
+      [
+        "Fun",
+        0.7039424180984497
+      ],
+      [
+        "Animation",
+        0.6892195343971252
+      ],
+      [
+        "Recreation",
+        0.5942989587783813
+      ],
+      [
+        "Happy",
+        0.5412643551826477
+      ],
+      [
+        "Style",
+        0.5095184445381165
+      ]
+    ],
+    "mobilenet": [
+      [
+        "balance beam",
+        0.15212179720401764
+      ],
+      [
+        "bobsled",
+        0.09359974414110184
+      ],
+      [
+        "piggy bank",
+        0.08021895587444305
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h340-l10.jpg",
+    "vision": [
+      [
+        "Silhouette",
+        0.8842459321022034
+      ],
+      [
+        "Maroon",
+        0.8139804005622864
+      ],
+      [
+        "Illustration",
+        0.5765818953514099
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.4043637216091156
+      ],
+      [
+        "bloodhound",
+        0.08343872427940369
+      ],
+      [
+        "parallel bars",
+        0.05538520589470863
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h340-l20.jpg",
+    "vision": [
+      [
+        "Red",
+        0.9534010887145996
+      ],
+      [
+        "Maroon",
+        0.833278238773346
+      ],
+      [
+        "Illustration",
+        0.7438470125198364
+      ],
+      [
+        "Fictional character",
+        0.5859824419021606
+      ],
+      [
+        "Carmine",
+        0.5584943890571594
+      ],
+      [
+        "Drawing",
+        0.5111506581306458
+      ],
+      [
+        "Art",
+        0.502187192440033
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.4433636963367462
+      ],
+      [
+        "parallel bars",
+        0.09273669123649597
+      ],
+      [
+        "balance beam",
+        0.07450191676616669
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h340-l30.jpg",
+    "vision": [
+      [
+        "Red",
+        0.9639484882354736
+      ],
+      [
+        "Maroon",
+        0.8359795808792114
+      ],
+      [
+        "Illustration",
+        0.7639288306236267
+      ],
+      [
+        "Fictional character",
+        0.5859824419021606
+      ],
+      [
+        "Carmine",
+        0.5840747952461243
+      ],
+      [
+        "Magenta",
+        0.5787783861160278
+      ],
+      [
+        "Animation",
+        0.5582482814788818
+      ],
+      [
+        "Drawing",
+        0.5365942120552063
+      ],
+      [
+        "Silhouette",
+        0.52339106798172
+      ],
+      [
+        "Art",
+        0.502187192440033
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.3780258595943451
+      ],
+      [
+        "balance beam",
+        0.09774705022573471
+      ],
+      [
+        "parallel bars",
+        0.09709922969341278
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h340-l40.jpg",
+    "vision": [
+      [
+        "Red",
+        0.9631332755088806
+      ],
+      [
+        "Pink",
+        0.8449604511260986
+      ],
+      [
+        "Maroon",
+        0.8274834156036377
+      ],
+      [
+        "Illustration",
+        0.7316700220108032
+      ],
+      [
+        "Magenta",
+        0.6806987524032593
+      ],
+      [
+        "Animation",
+        0.6399007439613342
+      ],
+      [
+        "Fictional character",
+        0.5859824419021606
+      ],
+      [
+        "Silhouette",
+        0.5607849955558777
+      ],
+      [
+        "Carmine",
+        0.5584943890571594
+      ],
+      [
+        "Art",
+        0.502187192440033
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.3108435571193695
+      ],
+      [
+        "balance beam",
+        0.10472662001848221
+      ],
+      [
+        "parallel bars",
+        0.08326683938503265
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h340-l50.jpg",
+    "vision": [
+      [
+        "Red",
+        0.9565770626068115
+      ],
+      [
+        "Fictional character",
+        0.6729325652122498
+      ],
+      [
+        "Illustration",
+        0.6402102112770081
+      ],
+      [
+        "Magenta",
+        0.5787783861160278
+      ],
+      [
+        "Carmine",
+        0.5584943890571594
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.2994746267795563
+      ],
+      [
+        "balance beam",
+        0.09376386553049088
+      ],
+      [
+        "parallel bars",
+        0.0792957991361618
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h340-l60.jpg",
+    "vision": [
+      [
+        "Red",
+        0.9468913674354553
+      ],
+      [
+        "Pink",
+        0.8449604511260986
+      ],
+      [
+        "Maroon",
+        0.8101143836975098
+      ],
+      [
+        "Animation",
+        0.7231491804122925
+      ],
+      [
+        "Illustration",
+        0.7095673680305481
+      ],
+      [
+        "Magenta",
+        0.6806987524032593
+      ],
+      [
+        "Fictional character",
+        0.6417872905731201
+      ],
+      [
+        "Art",
+        0.502187192440033
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.2719154357910156
+      ],
+      [
+        "parallel bars",
+        0.0955980122089386
+      ],
+      [
+        "balance beam",
+        0.08167523890733719
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h340-l70.jpg",
+    "vision": [
+      [
+        "Pink",
+        0.9065314531326294
+      ],
+      [
+        "Animation",
+        0.707575261592865
+      ],
+      [
+        "Magenta",
+        0.6621349453926086
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ]
+    ],
+    "mobilenet": [
+      [
+        "horizontal bar",
+        0.1592090129852295
+      ],
+      [
+        "balance beam",
+        0.09893633425235748
+      ],
+      [
+        "parallel bars",
+        0.07247782498598099
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h340-l80.jpg",
+    "vision": [
+      [
+        "Pink",
+        0.8907880783081055
+      ],
+      [
+        "Animation",
+        0.736576497554779
+      ],
+      [
+        "Jumping",
+        0.6140668988227844
+      ],
+      [
+        "Illustration",
+        0.5451834201812744
+      ],
+      [
+        "Fictional character",
+        0.5279175639152527
+      ]
+    ],
+    "mobilenet": [
+      [
+        "balance beam",
+        0.12784330546855927
+      ],
+      [
+        "bobsled",
+        0.07867857068777084
+      ],
+      [
+        "parallel bars",
+        0.06163548678159714
+      ]
+    ]
+  },
+  {
+    "img": "./output/1/MULTIPLY-h340-l90.jpg",
+    "vision": [
+      [
+        "Joint",
+        0.739563524723053
+      ],
+      [
+        "Jumping",
+        0.7281115055084229
+      ],
+      [
+        "Fun",
+        0.7039424180984497
+      ],
+      [
+        "Animation",
+        0.6671455502510071
+      ],
+      [
+        "Recreation",
+        0.5942989587783813
+      ],
+      [
+        "Happy",
+        0.5412643551826477
+      ]
+    ],
+    "mobilenet": [
+      [
+        "balance beam",
+        0.14484287798404694
+      ],
+      [
+        "piggy bank",
+        0.11793551594018936
+      ],
+      [
+        "bobsled",
+        0.06073597073554993
+      ]
+    ]
+  }
+]

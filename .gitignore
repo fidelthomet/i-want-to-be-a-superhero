@@ -2,5 +2,8 @@
 
 /preprocessing/input
 /preprocessing/output
+/client/public/output
+/client/node_modules/
+/client/public/build/
 
 .DS_Store
